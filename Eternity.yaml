@@ -878,7 +878,6 @@ proxies:
   - {name: TG频道@mfbpn-0923-CN, server: qwerabchk.cfprefer1.xyz, port: 443, type: vmess, uuid: 38f1be5d-3dfd-4707-935d-e3248a1c101a, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: "/stream_9?ed=2048", headers: {Host: qwerabchk.cfprefer1.xyz}}, udp: true}
   - {name: TG频道@mfbpn-0924-CN, server: qwerabchk.cfprefer1.xyz, port: 443, type: vmess, uuid: 38f1be5d-3dfd-4707-935d-e3248a1c101a, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: "/stream_10?ed=2048", headers: {Host: qwerabchk.cfprefer1.xyz}}, udp: true}
   - {name: TG频道@mfbpn-0925-CN, server: gzyd3.piaomiaoxu.net, port: 36042, type: ss, cipher: aes-256-gcm, password: 09552568-b718-4e18-96e1-527c1def333a, udp: true}
-  - {name: TG频道@mfbpn-0926-US, server: 65.75.192.48, port: 37543, type: vmess, uuid: 4674cbfc-f9ab-4c47-eec1-ba0a98ae370e, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /67jfsf}, udp: true}
   - {name: TG频道@mfbpn-0927-NOWHERE, server: b.jishuzhai.cloudns.biz, port: 443, type: vmess, uuid: f584de15-2034-4170-a723-f48c2bae5e0f, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /afrhms16v.bestxray.buzz:443/linkws, headers: {Host: b.jishuzhai.cloudns.biz}}, udp: true}
   - {name: TG频道@mfbpn-0928-NOWHERE, server: b.jishuzhai.cloudns.biz, port: 443, type: vmess, uuid: 76221bfb-e92f-4e80-81c5-6fe48f50ac0b, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /glweidf.sbs:443/linkws, headers: {Host: b.jishuzhai.cloudns.biz}}, udp: true}
   - {name: TG频道@mfbpn-0929-NOWHERE, server: b.jishuzhai.cloudns.biz, port: 443, type: vmess, uuid: f584de15-2034-4170-a723-f48c2bae5e0f, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /afrhms16v.bestxray.buzz:443/linkws, headers: {Host: b.jishuzhai.cloudns.biz}}, udp: true}
@@ -909,7 +908,7 @@ proxies:
   - {name: TG频道@mfbpn-0955-US, server: na-direct.cloud-services.top, port: 443, type: trojan, password: 167a6b8a-ba1f-395a-85ca-cd55aa6ace19, skip-cert-verify: true, udp: true}
   - {name: TG频道@mfbpn-0956-IT, server: 147.45.51.16, port: 2098, type: vmess, uuid: 83876222-64a4-4912-aa18-b7d9d34959de, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
   - {name: TG频道@mfbpn-0957-GB, server: 16.724064.xyz, port: 443, type: vmess, uuid: b7cf4466-956a-4639-b861-0cf78cbb6f8f, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /zlppvws, headers: {Host: 16.724064.xyz}}, udp: true}
-  - {name: TG频道@mfbpn-0958-US, server: hkvip104.qlgq.fun, port: 46216, type: trojan, password: 498c3f4f-3fbc-3c4d-9295-49057cbdce23, sni: "hkvip104.qlgq.fun#TG%E9%A2%91%E9%81%93%40mfbpn-0621-HKtrojan://Julius@miami.juliusnet.com:443?allowInsecure=1", skip-cert-verify: true, udp: true}
+  - {name: TG频道@mfbpn-0958-US, server: miami.juliusnet.com, port: 443, type: trojan, password: Julius, skip-cert-verify: true, udp: true}
   - {name: TG频道@mfbpn-0959-US, server: 205.134.180.150, port: 443, type: ss, cipher: chacha20-ietf-poly1305, password: 5cp9Z3iWnJZ2, udp: true}
   - {name: TG频道@mfbpn-0960-RELAY, server: 172.64.166.16, port: 2082, type: vmess, uuid: 5f3f09ad-89cb-4e94-a7ad-aa8239913555, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: github.com/Alvin9999}, udp: true}
   - {name: TG频道@mfbpn-0961-CN, server: hzhz1.sssyun.xyz, port: 39206, type: ss, cipher: chacha20-ietf-poly1305, password: d4eeaa7b-43c6-49dc-8020-7389bba4d033, udp: true}
@@ -1934,7 +1933,6 @@ proxy-groups:
       - TG频道@mfbpn-0923-CN
       - TG频道@mfbpn-0924-CN
       - TG频道@mfbpn-0925-CN
-      - TG频道@mfbpn-0926-US
       - TG频道@mfbpn-0927-NOWHERE
       - TG频道@mfbpn-0928-NOWHERE
       - TG频道@mfbpn-0929-NOWHERE
@@ -2334,7 +2332,6 @@ proxy-groups:
       - TG频道@mfbpn-0911-CN
       - TG频道@mfbpn-0916-CN
       - TG频道@mfbpn-0921-NOWHERE
-      - TG频道@mfbpn-0926-US
       - TG频道@mfbpn-0931-CN
       - TG频道@mfbpn-0936-CN
       - TG频道@mfbpn-0941-CN
