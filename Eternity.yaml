@@ -917,7 +917,6 @@ proxies:
   - {name: TG频道@mfbpn-0963-RELAY, server: ip.sb, port: 2095, type: vmess, uuid: 18d96190-c10f-448f-a82a-2d36df5c3cde, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /github.com/Alvin9999, headers: {Host: ip.sb}}, udp: true}
   - {name: TG频道@mfbpn-0964-RELAY, server: ip.sb, port: 2095, type: vmess, uuid: 18d96190-c10f-448f-a82a-2d36df5c3cde, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: github.com/Alvin9999, headers: {Host: ip.sb}}, udp: true}
   - {name: TG频道@mfbpn-0965-RELAY, server: malaysia.com, port: 2095, type: vmess, uuid: 18d96190-c10f-448f-a82a-2d36df5c3cde, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: github.com/Alvin9999, headers: {Host: malaysia.com}}, udp: true}
-  - {name: TG频道@mfbpn-0966-US, server: 37.19.198.243, port: 443, type: ss, cipher: aes-128-gcm, password: shadowsocks, udp: true}
   - {name: TG频道@mfbpn-0967-RELAY, server: 104.19.32.0, port: 443, type: vmess, uuid: 93ea486a-bada-42a4-ac38-d088b320fa1e, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /linkws}, udp: true}
   - {name: TG频道@mfbpn-0968-RELAY, server: 172.64.166.28, port: 2082, type: vmess, uuid: 5f3f09ad-89cb-4e94-a7ad-aa8239913555, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: github.com/Alvin9999}, udp: true}
   - {name: TG频道@mfbpn-0969-US, server: 156.146.38.168, port: 443, type: ss, cipher: aes-128-gcm, password: shadowsocks, udp: true}
@@ -935,6 +934,7 @@ proxies:
   - {name: TG频道@mfbpn-0981-RELAY, server: www.baldengineer.com, port: 443, type: vmess, uuid: f584de15-2034-4170-a723-f48c2bae5e0f, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /linkws/afrhms16v.bestxray.buzz, headers: {Host: www.baldengineer.com}}, udp: true}
   - {name: TG频道@mfbpn-0982-CA, server: 142.4.216.225, port: 80, type: ss, cipher: chacha20-ietf-poly1305, password: JIhN6rBKkaEboLNXVSv5rq, udp: true}
   - {name: TG频道@mfbpn-0983-DE, server: frankfurt03.zgjok.com, port: 443, type: vmess, uuid: 4f7c2243-a38a-4672-983b-f1378aee0a7f, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: frankfurt03.zgjok.com}}, udp: true}
+  - {name: TG频道@mfbpn-0984-US, server: 37.19.198.160, port: 443, type: ss, cipher: aes-128-gcm, password: shadowsocks, udp: true}
   - {name: TG频道@mfbpn-0985-RELAY, server: be.hkddisney.org, port: 443, type: vmess, uuid: 03fcc618-b93d-6796-6aed-8a38c975d581, alterId: 1, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: linkvws, headers: {Host: be.hkddisney.org}}, udp: true}
   - {name: TG频道@mfbpn-0986-LT, server: beesyar.org, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: 4a2rfixophdjffa8KVA4Aa, udp: true}
   - {name: TG频道@mfbpn-0987-RELAY, server: 104.26.5.113, port: 2082, type: vmess, uuid: 5f3f09ad-89cb-4e94-a7ad-aa8239913555, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /github.com/Alvin9999}, udp: true}
@@ -2095,7 +2095,6 @@ proxy-groups:
       - TG频道@mfbpn-0963-RELAY
       - TG频道@mfbpn-0964-RELAY
       - TG频道@mfbpn-0965-RELAY
-      - TG频道@mfbpn-0966-US
       - TG频道@mfbpn-0967-RELAY
       - TG频道@mfbpn-0968-RELAY
       - TG频道@mfbpn-0969-US
@@ -2113,6 +2112,7 @@ proxy-groups:
       - TG频道@mfbpn-0981-RELAY
       - TG频道@mfbpn-0982-CA
       - TG频道@mfbpn-0983-DE
+      - TG频道@mfbpn-0984-US
       - TG频道@mfbpn-0985-RELAY
       - TG频道@mfbpn-0986-LT
       - TG频道@mfbpn-0987-RELAY
@@ -2586,7 +2586,6 @@ proxy-groups:
       - TG频道@mfbpn-0951-RELAY
       - TG频道@mfbpn-0956-RELAY
       - TG频道@mfbpn-0961-RELAY
-      - TG频道@mfbpn-0966-US
       - TG频道@mfbpn-0971-US
       - TG频道@mfbpn-0976-US
       - TG频道@mfbpn-0981-RELAY
@@ -3307,6 +3306,7 @@ proxy-groups:
       - TG频道@mfbpn-0969-US
       - TG频道@mfbpn-0974-RELAY
       - TG频道@mfbpn-0979-RELAY
+      - TG频道@mfbpn-0984-US
       - TG频道@mfbpn-0989-RELAY
       - TG频道@mfbpn-0994-RELAY
       - TG频道@mfbpn-0999-GB
