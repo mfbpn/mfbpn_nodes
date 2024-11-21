@@ -1035,11 +1035,11 @@ Fork from TopFreeProxies.
 </details>
 
 ### 所有节点
-合并节点总数: `1100`
+合并节点总数: `1101`
 [节点链接](https://raw.githubusercontent.com/caijh/TopFreeProxies/master/sub/sub_merge_base64.txt)
 
 ### 节点来源
-- [mfbpn_node](https://github.com/mfbpn/nodelist), 节点数量: `1100`
+- [mfbpn_node](https://github.com/mfbpn/nodelist), 节点数量: `1101`
 
 
 ## 仓库声明
