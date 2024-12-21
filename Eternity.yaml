@@ -544,7 +544,6 @@ proxies:
   - {name: TG频道@mfbpn-588-US, server: 54.70.176.73, port: 443, type: ss, cipher: aes-256-cfb, password: amazonskr05, udp: true}
   - {name: TG频道@mfbpn-589-TR, server: 185.123.101.241, port: 989, type: ss, cipher: aes-256-cfb, password: f8f7aCzcPKbsF8p3, udp: true}
   - {name: TG频道@mfbpn-590-PL, server: 217.30.10.18, port: 9094, type: ss, cipher: aes-256-cfb, password: rpgbNnU9rDDU4aWZ, udp: true}
-  - {name: TG频道@mfbpn-591-GB, server: 212.102.53.193, port: 443, type: ss, cipher: aes-128-gcm, password: shadowsocks, udp: true}
   - {name: TG频道@mfbpn-592-US, server: 52.32.68.164, port: 443, type: ss, cipher: aes-256-cfb, password: amazonskr05, udp: true}
   - {name: TG频道@mfbpn-593-KR, server: 3.38.212.48, port: 443, type: ss, cipher: aes-256-cfb, password: amazonskr05, udp: true}
   - {name: TG频道@mfbpn-594-PL, server: 217.30.10.18, port: 9059, type: ss, cipher: aes-256-cfb, password: 9XwYyZsK8SNzQDtY, udp: true}
@@ -818,6 +817,7 @@ proxies:
   - {name: TG频道@mfbpn-863-US, server: 3.220.236.149, port: 22222, type: trojan, password: telegram-id-directvpn, sni: trojan.burgerip.co.uk, skip-cert-verify: true, udp: true}
   - {name: TG频道@mfbpn-864-JP, server: 13.114.67.166, port: 443, type: ss, cipher: aes-256-cfb, password: amazonskr05, udp: true}
   - {name: TG频道@mfbpn-865-JP, server: 57.181.42.233, port: 443, type: ss, cipher: aes-256-cfb, password: amazonskr05, udp: true}
+  - {name: TG频道@mfbpn-866-GB, server: 212.102.53.193, port: 443, type: ss, cipher: aes-128-gcm, password: shadowsocks, udp: true}
   - {name: TG频道@mfbpn-867-GB, server: 193.38.136.149, port: 8353, type: ss, cipher: aes-256-gcm, password: 4180441OS33nY3f2WpxyU, udp: true}
   - {name: TG频道@mfbpn-868-GB, server: 146.70.61.18, port: 8080, type: ss, cipher: rc4-md5, password: 14fFPrbezE3HDZzsMOr6, udp: true}
 proxy-groups:
@@ -1321,7 +1321,6 @@ proxy-groups:
       - TG频道@mfbpn-588-US
       - TG频道@mfbpn-589-TR
       - TG频道@mfbpn-590-PL
-      - TG频道@mfbpn-591-GB
       - TG频道@mfbpn-592-US
       - TG频道@mfbpn-593-KR
       - TG频道@mfbpn-594-PL
@@ -1595,6 +1594,7 @@ proxy-groups:
       - TG频道@mfbpn-863-US
       - TG频道@mfbpn-864-JP
       - TG频道@mfbpn-865-JP
+      - TG频道@mfbpn-866-GB
       - TG频道@mfbpn-867-GB
       - TG频道@mfbpn-868-GB
   - name: 自动选择
@@ -1709,7 +1709,6 @@ proxy-groups:
       - TG频道@mfbpn-576-PL
       - TG频道@mfbpn-581-IE
       - TG频道@mfbpn-586-PL
-      - TG频道@mfbpn-591-GB
       - TG频道@mfbpn-596-PL
       - TG频道@mfbpn-601-US
       - TG频道@mfbpn-606-KR
@@ -1764,6 +1763,7 @@ proxy-groups:
       - TG频道@mfbpn-851-FR
       - TG频道@mfbpn-856-US
       - TG频道@mfbpn-861-US
+      - TG频道@mfbpn-866-GB
   - name: 测速2分组
     type: url-test
     url: https://www.gstatic.com/generate_204
