@@ -26,7 +26,7 @@ Fork from TopFreeProxies.
 
 ## 节点信息
 ### 高速节点
-高速节点数量: `1034`
+高速节点数量: `1035`
 <details>
   <summary>展开复制节点</summary>
 
@@ -36,6 +36,7 @@ Fork from TopFreeProxies.
     vmess://eyJ2IjoiMiIsInBzIjoiVEfpopHpgZNAbWZicG4tMDAwMy1SRUxBWSIsImFkZCI6IjE2Mi4xNTkuMTI4LjciLCJwb3J0IjoiNDQzIiwidHlwZSI6Im5vbmUiLCJpZCI6IjIwZTkyODgxLTVmYjQtNGIwNS1iYzc3LTU3OTI5NDc2ZGM2OSIsImFpZCI6IjAiLCJuZXQiOiJ3cyIsInBhdGgiOiIvc2hpcmtlciIsImhvc3QiOiIiLCJ0bHMiOiIifQ==
     vmess://eyJ2IjoiMiIsInBzIjoiVEfpopHpgZNAbWZicG4tMDAwNC1SRUxBWSIsImFkZCI6IjE2Mi4xNTkuMTI4LjciLCJwb3J0IjoiNDQzIiwidHlwZSI6Im5vbmUiLCJpZCI6IjgyZDVlYTczLTgwMDItNDMxOS1jZDNjLTI5ZDE1NjBiZDI5MCIsImFpZCI6IjAiLCJuZXQiOiJ3cyIsInBhdGgiOiIvZHNhZHNhMWRzYWRzYTMzNDM0IiwiaG9zdCI6IiIsInRscyI6IiJ9
     vmess://eyJ2IjoiMiIsInBzIjoiVEfpopHpgZNAbWZicG4tMDAwNS1SRUxBWSIsImFkZCI6IjE2Mi4xNTkuMTM1LjQyIiwicG9ydCI6IjQ0MyIsInR5cGUiOiJub25lIiwiaWQiOiIxMmUwODI1Ni1kYTVkLTRiMWMtYWVjYS04Yzk3M2NjY2VlZjgiLCJhaWQiOiIwIiwibmV0Ijoid3MiLCJwYXRoIjoiL0ZhbGxpbmc0Mmdjb3Jlc2dub2RlIiwiaG9zdCI6IiIsInRscyI6IiJ9
+    vmess://eyJ2IjoiMiIsInBzIjoiVEfpopHpgZNAbWZicG4tMDAwNi1TRyIsImFkZCI6IjE1Ny4yMzAuMzYuMjM1IiwicG9ydCI6IjgwIiwidHlwZSI6Im5vbmUiLCJpZCI6ImI0ODRkNTc2LWIzZTMtNGFjNS1iMTA4LTg4YTMwMGRmZTdlMyIsImFpZCI6IjAiLCJuZXQiOiJ3cyIsInBhdGgiOiIvZ3JhcGhxbCIsImhvc3QiOiIiLCJ0bHMiOiIifQ==
     vmess://eyJ2IjoiMiIsInBzIjoiVEfpopHpgZNAbWZicG4tMDAwNy1TRyIsImFkZCI6IjE1Ny4yMzAuMzYuMjM1IiwicG9ydCI6IjgwIiwidHlwZSI6Im5vbmUiLCJpZCI6ImI0ODRkNTc2LWIzZTMtNGFjNS1iMTA4LTg4YTMwMGRmZTdlMyIsImFpZCI6IjAiLCJuZXQiOiJ3cyIsInBhdGgiOiIvZ3JhcGhxbCIsImhvc3QiOiIiLCJ0bHMiOiIifQ==
     vmess://eyJ2IjoiMiIsInBzIjoiVEfpopHpgZNAbWZicG4tMDAwOC1VUyIsImFkZCI6ImhvaG0ubWljcm9zb2Z0LmNvbSIsInBvcnQiOiI0NDMiLCJ0eXBlIjoibm9uZSIsImlkIjoiMTJlMDgyNTYtZGE1ZC00YjFjLWFlY2EtOGM5NzNjY2NlZWY4IiwiYWlkIjoiMCIsIm5ldCI6IndzIiwicGF0aCI6Ii9GYWxsaW5nNDJnY3NzZ25vZGUiLCJob3N0IjoiaG9obS5taWNyb3NvZnQuY29tIiwidGxzIjoiIn0=
     vmess://eyJ2IjoiMiIsInBzIjoiVEfpopHpgZNAbWZicG4tMDAwOS1SRUxBWSIsImFkZCI6ImNmLWx0LnNoYXJlY2VudHJlLm9ubGluZSIsInBvcnQiOiI0NDMiLCJ0eXBlIjoibm9uZSIsImlkIjoiMjBlOTI4ODEtNWZiNC00YjA1LWJjNzctNTc5Mjk0NzZkYzY5IiwiYWlkIjoiMCIsIm5ldCI6IndzIiwicGF0aCI6Ii9zaGlya2VyIiwiaG9zdCI6ImNmLWx0LnNoYXJlY2VudHJlLm9ubGluZSIsInRscyI6IiJ9
@@ -1059,7 +1060,7 @@ Fork from TopFreeProxies.
     vmess://eyJ2IjoiMiIsInBzIjoiVEfpopHpgZNAbWZicG4tMTEyOC1VUyIsImFkZCI6IjM4LjExLjUwLjY4IiwicG9ydCI6IjMxMDA1IiwidHlwZSI6Im5vbmUiLCJpZCI6IjQxODA0OGFmLWEyOTMtNGI5OS05YjBjLTk4Y2EzNTgwZGQyNCIsImFpZCI6IjY0IiwibmV0Ijoid3MiLCJwYXRoIjoiL3BhdGgvMTczNDc3MDU3NzQ2NiIsImhvc3QiOiIiLCJ0bHMiOiJ0bHMifQ==
     trojan://telegram-id-directvpn@3.220.236.149:22222?allowInsecure=1&sni=trojan.burgerip.co.uk#TG%E9%A2%91%E9%81%93%40mfbpn-1129-US
     ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU@13.114.67.166:443#TG%E9%A2%91%E9%81%93%40mfbpn-1130-JP
-    ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU@57.181.42.233:443#TG%E9%A2%91%E9%81%93%40mfbpn-1131-JP
+    ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU@57.181.42.233:443#TG%E9%A2%91%E9%81%93%40mfbpn-1131-JPtrojan%2F%2F71409d3e488548e8bb076d229778f008%40jobsfortheworldtoday.com443%3FallowInsecure%3D1%23TG%E9%A2%91%E9%81%93%40mfbpn-0639-US
     ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M@212.102.53.193:443#TG%E9%A2%91%E9%81%93%40mfbpn-1132-GB
     ss://YWVzLTI1Ni1nY206NDE4MDQ0MU9TMzNuWTNmMldweHlV@193.38.136.149:8353#TG%E9%A2%91%E9%81%93%40mfbpn-1133-GB
     ss://cmM0LW1kNToxNGZGUHJiZXpFM0hEWnpzTU9yNg@146.70.61.18:8080#TG%E9%A2%91%E9%81%93%40mfbpn-1134-GB
@@ -1069,11 +1070,11 @@ Fork from TopFreeProxies.
 </details>
 
 ### 所有节点
-合并节点总数: `1136`
+合并节点总数: `1144`
 [节点链接](https://raw.githubusercontent.com/caijh/TopFreeProxies/master/sub/sub_merge_base64.txt)
 
 ### 节点来源
-- [mfbpn_node](https://github.com/mfbpn/nodelist), 节点数量: `1136`
+- [mfbpn_node](https://github.com/mfbpn/nodelist), 节点数量: `1144`
 
 
 ## 仓库声明
