@@ -26,7 +26,7 @@ Fork from TopFreeProxies.
 
 ## 节点信息
 ### 高速节点
-高速节点数量: `1118`
+高速节点数量: `1119`
 <details>
   <summary>展开复制节点</summary>
 
@@ -272,6 +272,7 @@ Fork from TopFreeProxies.
     ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU@34.213.200.250:443#TG%E9%A2%91%E9%81%93%40mfbpn-0240-US
     trojan://telegram-id-privatevpns@13.37.176.178:22222?allowInsecure=1&sni=trojan.burgerip.co.uk#TG%E9%A2%91%E9%81%93%40mfbpn-0241-FR
     ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU@54.69.180.74:443#TG%E9%A2%91%E9%81%93%40mfbpn-0242-US
+    ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU@35.161.59.194:443#TG%E9%A2%91%E9%81%93%40mfbpn-0243-UStrojan%2F%2Ftelegram-id-privatevpns%4054.73.96.1722222%3FallowInsecure%3D1%26sni%3Dtrojan.burgerip.co.uk%23TG%E9%A2%91%E9%81%93%40mfbpn-0795-IE
     vmess://eyJ2IjoiMiIsInBzIjoiVEfpopHpgZNAbWZicG4tMDI0NC1DTiIsImFkZCI6ImNtLmF3c2xjbi5pbmZvIiwicG9ydCI6IjI1MjE2IiwidHlwZSI6Im5vbmUiLCJpZCI6IjI0M2VhYjUyLTlhYzEtNDA1Yy04ODdjLWViMTEyYzA5ODViOCIsImFpZCI6IjAiLCJuZXQiOiJ3cyIsInBhdGgiOiIvIiwiaG9zdCI6ImNtLmF3c2xjbi5pbmZvIiwidGxzIjoiIn0=
     ss://cmM0LW1kNToxNGZGUHJiZXpFM0hEWnpzTU9yNg@193.108.119.230:8080#TG%E9%A2%91%E9%81%93%40mfbpn-0245-DE
     vmess://eyJ2IjoiMiIsInBzIjoiVEfpopHpgZNAbWZicG4tMDI0Ni1SRUxBWSIsImFkZCI6IjQ1LjEzMS43LjkzIiwicG9ydCI6IjgwODAiLCJ0eXBlIjoibm9uZSIsImlkIjoiMmE0ZmE0MGYtOTdmNC00ZWE5LWI5NTktYjE0OGM0MTk3ZDE1IiwiYWlkIjoiMCIsIm5ldCI6IndzIiwicGF0aCI6Ii8yYTRmYTQwZiIsImhvc3QiOiIiLCJ0bHMiOiIifQ==
@@ -651,6 +652,7 @@ Fork from TopFreeProxies.
     vmess://eyJ2IjoiMiIsInBzIjoiVEfpopHpgZNAbWZicG4tMDcxOS1ERSIsImFkZCI6IjU3LjEyOS4yNC4xMjQiLCJwb3J0IjoiNDQzIiwidHlwZSI6Im5vbmUiLCJpZCI6IjAzZmNjNjE4LWI5M2QtNjc5Ni02YWVkLThhMzhjOTc1ZDU4MSIsImFpZCI6IjAiLCJuZXQiOiJ3cyIsInBhdGgiOiIvbGlua3Z3cyIsImhvc3QiOiIiLCJ0bHMiOiJ0bHMifQ==
     vmess://eyJ2IjoiMiIsInBzIjoiVEfpopHpgZNAbWZicG4tMDcyMC1OT1dIRVJFIiwiYWRkIjoidnYub3JhbmdlbGlnaHR5by51cy5rZyIsInBvcnQiOiI4MCIsInR5cGUiOiJub25lIiwiaWQiOiI2YTRiZjU5Ni1jYjEyLTRhMmEtOTUxYy1mMDZlNGFjYTlhNTkiLCJhaWQiOiIwIiwibmV0Ijoid3MiLCJwYXRoIjoiLyIsImhvc3QiOiJ2di5vcmFuZ2VsaWdodHlvLnVzLmtnIiwidGxzIjoiIn0=
     vmess://eyJ2IjoiMiIsInBzIjoiVEfpopHpgZNAbWZicG4tMDcyMS1SRUxBWSIsImFkZCI6InM1LmRiLWxpbmswMi50b3AiLCJwb3J0IjoiMjA1MiIsInR5cGUiOiJub25lIiwiaWQiOiI0YjM2NjI1Yy1iOWQ5LTNlYTYtYWVkNS04NmQ2MmM3MGUxNmQiLCJhaWQiOiIwIiwibmV0Ijoid3MiLCJwYXRoIjoiL2RhYmFpLmluMTcyLjY0LjE5LjE3MiIsImhvc3QiOiJzNS5kYi1saW5rMDIudG9wIiwidGxzIjoiIn0=
+    vmess://eyJ2IjoiMiIsInBzIjoiVEfpopHpgZNAbWZicG4tMDcyMi1SRUxBWSIsImFkZCI6ImpndzM1MG0ucGFpNTAyODgudWsiLCJwb3J0IjoiNDQzIiwidHlwZSI6Im5vbmUiLCJpZCI6IjM2ODZmNTU3LWYwZDctNGU5ZC1kMjgxLWI3NDBmOGY0MTM5MyIsImFpZCI6IjAiLCJuZXQiOiJ3cyIsInBhdGgiOiIvMzY4NmY1NTciLCJob3N0Ijoiamd3MzUwbS5wYWk1MDI4OC51ayIsInRscyI6InRscyJ9
     vmess://eyJ2IjoiMiIsInBzIjoiVEfpopHpgZNAbWZicG4tMDcyMy1SRUxBWSIsImFkZCI6InMxLmRiLWxpbmswMi50b3AiLCJwb3J0IjoiODA4MCIsInR5cGUiOiJub25lIiwiaWQiOiI0YjM2NjI1Yy1iOWQ5LTNlYTYtYWVkNS04NmQ2MmM3MGUxNmQiLCJhaWQiOiIwIiwibmV0Ijoid3MiLCJwYXRoIjoiL2RhYmFpLmluMTA0LjIxLjE1MS4yMDIiLCJob3N0IjoiczEuZGItbGluazAyLnRvcCIsInRscyI6IiJ9
     trojan://3e5cb4f5-8dcf-492a-b4c8-06bc06f158bb@6afce49908aacb7a6131d234fb03a9bd.v1.cac.node-is.green:47489?allowInsecure=1&sni=hk12.bilibili.com#TG%E9%A2%91%E9%81%93%40mfbpn-0724-HK
     ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU@35.94.52.140:443#TG%E9%A2%91%E9%81%93%40mfbpn-0725-US
@@ -723,7 +725,6 @@ Fork from TopFreeProxies.
     vmess://eyJ2IjoiMiIsInBzIjoiVEfpopHpgZNAbWZicG4tMDc5Mi1DTiIsImFkZCI6ImNtMS5hd3NsY24uaW5mbyIsInBvcnQiOiIyNTIzMCIsInR5cGUiOiJub25lIiwiaWQiOiIyNDNlYWI1Mi05YWMxLTQwNWMtODg3Yy1lYjExMmMwOTg1YjgiLCJhaWQiOiIwIiwibmV0Ijoid3MiLCJwYXRoIjoiLyIsImhvc3QiOiJjbTEuYXdzbGNuLmluZm8iLCJ0bHMiOiIifQ==
     trojan://telegram-id-directvpn@54.77.137.127:22222?allowInsecure=1&sni=trojan.burgerip.co.uk#TG%E9%A2%91%E9%81%93%40mfbpn-0793-IE
     trojan://telegram-id-privatevpns@35.181.242.100:22222?allowInsecure=1&sni=trojan.burgerip.co.uk#TG%E9%A2%91%E9%81%93%40mfbpn-0794-FR
-    trojan://telegram-id-privatevpns@54.73.96.17:22222?allowInsecure=1&sni=trojan.burgerip.co.uk#TG%E9%A2%91%E9%81%93%40mfbpn-0795-IE
     vmess://eyJ2IjoiMiIsInBzIjoiVEfpopHpgZNAbWZicG4tMDc5Ni1SRUxBWSIsImFkZCI6IjEwNC4yMS44Mi4xODMiLCJwb3J0IjoiODg4MCIsInR5cGUiOiJub25lIiwiaWQiOiI1YTcwMjFlMC0yNmI0LTQ1ZDYtYjE3NS1mZTU1MTYwMWNhOTciLCJhaWQiOiIwIiwibmV0Ijoid3MiLCJwYXRoIjoiLyIsImhvc3QiOiIiLCJ0bHMiOiIifQ==
     vmess://eyJ2IjoiMiIsInBzIjoiVEfpopHpgZNAbWZicG4tMDc5Ny1ISyIsImFkZCI6Im9jZWFuLjIwMjIuMjAyMy5tbGludXUudG9wIiwicG9ydCI6IjM1MDMiLCJ0eXBlIjoibm9uZSIsImlkIjoiZmE2Nzg0OTItNjVkZC0zZGYwLTgwMGQtMTFmMTM4Yjg2OGFiIiwiYWlkIjoiMCIsIm5ldCI6InRjcCIsInBhdGgiOiIvIiwiaG9zdCI6Im9jZWFuLjIwMjIuMjAyMy5tbGludXUudG9wIiwidGxzIjoiIn0=
     vmess://eyJ2IjoiMiIsInBzIjoiVEfpopHpgZNAbWZicG4tMDc5OC1SRUxBWSIsImFkZCI6InNlcnZlcjMxLmJlaGVzaHRiYW5laC5jb20iLCJwb3J0IjoiODg4MCIsInR5cGUiOiJub25lIiwiaWQiOiI0MTU0MTQzYy1iYmJhLTQ3YTQtOWY3OS1jMmVkMDg3Y2JjYzkiLCJhaWQiOiIwIiwibmV0Ijoid3MiLCJwYXRoIjoiLyIsImhvc3QiOiJzZXJ2ZXIzMS5iZWhlc2h0YmFuZWguY29tIiwidGxzIjoiIn0=
@@ -1153,11 +1154,11 @@ Fork from TopFreeProxies.
 </details>
 
 ### 所有节点
-合并节点总数: `1219`
+合并节点总数: `1226`
 [节点链接](https://raw.githubusercontent.com/caijh/TopFreeProxies/master/sub/sub_merge_base64.txt)
 
 ### 节点来源
-- [mfbpn_node](https://github.com/mfbpn/nodelist), 节点数量: `1219`
+- [mfbpn_node](https://github.com/mfbpn/nodelist), 节点数量: `1226`
 
 
 ## 仓库声明
