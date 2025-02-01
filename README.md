@@ -314,6 +314,7 @@ Fork from TopFreeProxies.
     trojan://7737257a-03ed-3e37-844c-c26d5c435646@gy.58n.net:20306?allowInsecure=1&sni=z306.hongkongnode.top#TG%E9%A2%91%E9%81%93%40mfbpn-0380-CN
     trojan://175ba72b-1187-393d-b0b2-2731892fc2ff@35.78.173.41:443?allowInsecure=1&sni=www.microsoft365.com#TG%E9%A2%91%E9%81%93%40mfbpn-0381-JP
     trojan://175ba72b-1187-393d-b0b2-2731892fc2ff@35.79.23.58:443?allowInsecure=1&sni=upos-hz-mirrorakam.akamaized.net#TG%E9%A2%91%E9%81%93%40mfbpn-0382-JP
+    trojan://175ba72b-1187-393d-b0b2-2731892fc2ff@34.220.132.151:443?allowInsecure=1&sni=cloudsync-prod.s3.amazonaws.com#TG%E9%A2%91%E9%81%93%40mfbpn-0383-US
     trojan://175ba72b-1187-393d-b0b2-2731892fc2ff@103.136.185.27:5535?allowInsecure=1&sni=akamai.cdn.steampipe.steamcontent.com#TG%E9%A2%91%E9%81%93%40mfbpn-0384-US
     trojan://175ba72b-1187-393d-b0b2-2731892fc2ff@103.136.185.28:3516?allowInsecure=1&sni=steamcdn-a.akamaihd.net#TG%E9%A2%91%E9%81%93%40mfbpn-0385-US
     vmess://eyJ2IjoiMiIsInBzIjoiVEfpopHpgZNAbWZicG4tMDM4Ni1SRUxBWSIsImFkZCI6InMyLmRiLWxpbmswMS50b3AiLCJwb3J0IjoiODg4MCIsInR5cGUiOiJub25lIiwiaWQiOiI2YmQzMTdmNy0xNGJjLTNjNGEtODY2Mi1lYjM0YTY5NWE3MzQiLCJhaWQiOiIwIiwibmV0Ijoid3MiLCJwYXRoIjoiL2RhYmFpLmluMTA0LjI1LjE2My44OCIsImhvc3QiOiJzMi5kYi1saW5rMDEudG9wIiwidGxzIjoiIn0=
@@ -525,7 +526,6 @@ Fork from TopFreeProxies.
     vmess://eyJ2IjoiMiIsInBzIjoiVEfpopHpgZNAbWZicG4tMDYwNy1SVSIsImFkZCI6IjE5NS41OC40OS41MCIsInBvcnQiOiIyMzUzMiIsInR5cGUiOiJub25lIiwiaWQiOiI5NjlhZTNlNC0xMGNhLTRiOTUtYmZiNC05MGQ3MGQxOGE0YjgiLCJhaWQiOiIwIiwibmV0Ijoid3MiLCJwYXRoIjoiLyIsImhvc3QiOiIiLCJ0bHMiOiIifQ==
     trojan://3763495894587285504@pet-bulldog.goat627.mom:443?allowInsecure=1&sni=pet-bulldog.goat627.mom#TG%E9%A2%91%E9%81%93%40mfbpn-0608-NL
     vmess://eyJ2IjoiMiIsInBzIjoiVEfpopHpgZNAbWZicG4tMDYwOS1ERSIsImFkZCI6IjY0LjIyNS4xMDkuMjA2IiwicG9ydCI6IjIwODIiLCJ0eXBlIjoibm9uZSIsImlkIjoiNDgyNjRiNDUtNjRiOC00ZTlmLThhODgtY2VmNDFmMjBjNzM2IiwiYWlkIjoiMCIsIm5ldCI6InRjcCIsInBhdGgiOiIvIiwiaG9zdCI6InBldC1idWxsZG9nLmdvYXQ2MjcubW9tIiwidGxzIjoiIn0=
-    trojan://2cba4104747d49d18319e5ade1b93ab5@yourjobnavigator.online:443?allowInsecure=1#TG%E9%A2%91%E9%81%93%40mfbpn-0610-GB
     trojan://3763495982449565696@relaxed-jaybird.treefrog761.one:443?allowInsecure=1&sni=relaxed-jaybird.treefrog761.one#TG%E9%A2%91%E9%81%93%40mfbpn-0611-RU
     vmess://eyJ2IjoiMiIsInBzIjoiVEfpopHpgZNAbWZicG4tMDYxMi1ISyIsImFkZCI6IjE1Ni4yMjYuMTczLjIyMCIsInBvcnQiOiI1NjIxNCIsInR5cGUiOiJub25lIiwiaWQiOiIzOTQyOTRjYy1lYjBmLTRmMTctODQ1My01ZWRiZWQ2MGY0ZWUiLCJhaWQiOiIwIiwibmV0Ijoid3MiLCJwYXRoIjoiLyIsImhvc3QiOiIiLCJ0bHMiOiIifQ==
     vmess://eyJ2IjoiMiIsInBzIjoiVEfpopHpgZNAbWZicG4tMDYxMy1ERSIsImFkZCI6IjY0LjIyNS4xMDkuMjA2IiwicG9ydCI6IjIwODIiLCJ0eXBlIjoibm9uZSIsImlkIjoiNDgyNjRiNDUtNjRiOC00ZTlmLThhODgtY2VmNDFmMjBjNzM2IiwiYWlkIjoiMCIsIm5ldCI6InRjcCIsInBhdGgiOiIvIiwiaG9zdCI6IiIsInRscyI6IiJ9
@@ -656,17 +656,17 @@ Fork from TopFreeProxies.
     ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@188.214.36.155:989#TG%E9%A2%91%E9%81%93%40mfbpn-1500-EE
     trojan://telegram-id-directvpn@13.48.122.217:22222?allowInsecure=1&sni=trojan.burgerip.co.uk#TG%E9%A2%91%E9%81%93%40mfbpn-1501-SE
     trojan://telegram-id-directvpn@13.50.168.88:22222?allowInsecure=1&sni=trojan.burgerip.co.uk#TG%E9%A2%91%E9%81%93%40mfbpn-1502-SE
+    ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@84.17.53.160:989#TG%E9%A2%91%E9%81%93%40mfbpn-1503-CH
     vmess://eyJ2IjoiMiIsInBzIjoiVEfpopHpgZNAbWZicG4tMTUwNC1VUyIsImFkZCI6IjEzNy4xNzUuMjMuMTM1IiwicG9ydCI6IjM2MDAzIiwidHlwZSI6Im5vbmUiLCJpZCI6IjQxODA0OGFmLWEyOTMtNGI5OS05YjBjLTk4Y2EzNTgwZGQyNCIsImFpZCI6IjY0IiwibmV0Ijoid3MiLCJwYXRoIjoiL3BhdGgvMTczNzcxNDQyNzEwNCIsImhvc3QiOiIiLCJ0bHMiOiJ0bHMifQ==
     ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU@34.217.62.14:443#TG%E9%A2%91%E9%81%93%40mfbpn-1505-US
     vmess://eyJ2IjoiMiIsInBzIjoiVEfpopHpgZNAbWZicG4tMTUwNi1VUyIsImFkZCI6IjEzNy4xNzUuMzkuMTk0IiwicG9ydCI6IjM4MDAyIiwidHlwZSI6Im5vbmUiLCJpZCI6IjQxODA0OGFmLWEyOTMtNGI5OS05YjBjLTk4Y2EzNTgwZGQyNCIsImFpZCI6IjY0IiwibmV0Ijoid3MiLCJwYXRoIjoiL3BhdGgvMTczNzcxMjU3MTUyNSIsImhvc3QiOiIiLCJ0bHMiOiJ0bHMifQ==
-    ss://cmM0LW1kNToxNGZGUHJiZXpFM0hEWnpzTU9yNg@194.5.215.59:8080#TG%E9%A2%91%E9%81%93%40mfbpn-1507-US
     vmess://eyJ2IjoiMiIsInBzIjoiVEfpopHpgZNAbWZicG4tMTUwOC1VUyIsImFkZCI6IjM4LjMzLjQ0LjEwIiwicG9ydCI6IjM4MDAzIiwidHlwZSI6Im5vbmUiLCJpZCI6IjQxODA0OGFmLWEyOTMtNGI5OS05YjBjLTk4Y2EzNTgwZGQyNCIsImFpZCI6IjY0IiwibmV0Ijoid3MiLCJwYXRoIjoiL3BhdGgvMTczNzcxNDQyNzEwNCIsImhvc3QiOiIiLCJ0bHMiOiJ0bHMifQ==
     vmess://eyJ2IjoiMiIsInBzIjoiVEfpopHpgZNAbWZicG4tMTUwOS1VUyIsImFkZCI6IjE5Mi43NC4yNDIuMjQ3IiwicG9ydCI6IjM4MDAzIiwidHlwZSI6Im5vbmUiLCJpZCI6IjQxODA0OGFmLWEyOTMtNGI5OS05YjBjLTk4Y2EzNTgwZGQyNCIsImFpZCI6IjY0IiwibmV0Ijoid3MiLCJwYXRoIjoiL3BhdGgvMTczNzcxNDQyNzEwNCIsImhvc3QiOiIiLCJ0bHMiOiJ0bHMifQ==
     trojan://telegram-id-privatevpns@18.134.54.187:22222?allowInsecure=1&sni=trojan.burgerip.co.uk#TG%E9%A2%91%E9%81%93%40mfbpn-1510-GB
     ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@62.100.205.48:989#TG%E9%A2%91%E9%81%93%40mfbpn-1511-GB
     ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpOWUJ4VER5YlJLaEhqMmZLcUNINGtx@147.45.114.160:60879#TG%E9%A2%91%E9%81%93%40mfbpn-1512-NL
     ss://YWVzLTI1Ni1jZmI6cXdlclJFV1FAQA@p110.panda001.net:22081#TG%E9%A2%91%E9%81%93%40mfbpn-1513-KR
-    ss://YWVzLTI1Ni1jZmI6cXdlclJFV1FAQA@211.201.169.70:22081#TG%E9%A2%91%E9%81%93%40mfbpn-1514-KRtrojan%2F%2F175ba72b-1187-393d-b0b2-2731892fc2ff%4034.220.132.151443%3FallowInsecure%3D1%26sni%3Dcloudsync-prod.s3.amazonaws.com%23TG%E9%A2%91%E9%81%93%40mfbpn-0383-US
+    ss://YWVzLTI1Ni1jZmI6cXdlclJFV1FAQA@211.201.169.70:22081#TG%E9%A2%91%E9%81%93%40mfbpn-1514-KRss%2F%2FcmM0LW1kNToxNGZGUHJiZXpFM0hEWnpzTU9yNg%40194.5.215.598080%23TG%E9%A2%91%E9%81%93%40mfbpn-1507-US
     ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@147.78.1.27:989#TG%E9%A2%91%E9%81%93%40mfbpn-1515-MX
     
 
