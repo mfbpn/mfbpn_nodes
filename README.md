@@ -503,7 +503,6 @@ Fork from TopFreeProxies.
     trojan://8b34c254-5358-3c01-b5db-c94fc9d9f0da@35.74.5.159:443?allowInsecure=1&sni=steampipe-partner.akamaized.net#TG%E9%A2%91%E9%81%93%40mfbpn-0569-JP
     trojan://8b34c254-5358-3c01-b5db-c94fc9d9f0da@54.201.185.116:443?allowInsecure=1&sni=fastly.cdn.steampipe.steamcontent.com#TG%E9%A2%91%E9%81%93%40mfbpn-0570-US
     trojan://8b34c254-5358-3c01-b5db-c94fc9d9f0da@103.136.185.27:5535?allowInsecure=1&sni=upos-hz-mirrorakam.akamaized.net#TG%E9%A2%91%E9%81%93%40mfbpn-0571-US
-    trojan://8b34c254-5358-3c01-b5db-c94fc9d9f0da@103.136.185.28:3516?allowInsecure=1&sni=fastly.cdn.steampipe.steamcontent.com#TG%E9%A2%91%E9%81%93%40mfbpn-0572-US
     vmess://eyJ2IjoiMiIsInBzIjoiVEfpopHpgZNAbWZicG4tMDU3My1SRUxBWSIsImFkZCI6Ijk0LjE0MC4wLjExMCIsInBvcnQiOiI4ODgwIiwidHlwZSI6Im5vbmUiLCJpZCI6IjBkMWJmMjZhLWNlOTctNDcwNy1hMjcwLTdmNGQyYWUzNzMzNCIsImFpZCI6IjAiLCJuZXQiOiJ3cyIsInBhdGgiOiIvIiwiaG9zdCI6IiIsInRscyI6IiJ9
     vmess://eyJ2IjoiMiIsInBzIjoiVEfpopHpgZNAbWZicG4tMDU3NC1SRUxBWSIsImFkZCI6IjE4OC4xMTQuOTYuMTEzIiwicG9ydCI6IjgwIiwidHlwZSI6Im5vbmUiLCJpZCI6IjcwMjI5ODJmLWRhNGMtNDhjOS1jNjYwLWIyMzE1YWJkY2Y3ZSIsImFpZCI6IjAiLCJuZXQiOiJ3cyIsInBhdGgiOiIvIiwiaG9zdCI6IiIsInRscyI6IiJ9
     vmess://eyJ2IjoiMiIsInBzIjoiVEfpopHpgZNAbWZicG4tMDU3NS1SRUxBWSIsImFkZCI6IjEwNC4yMS42OS40NCIsInBvcnQiOiI4MCIsInR5cGUiOiJub25lIiwiaWQiOiI3MDIyOTgyZi1kYTRjLTQ4YzktYzY2MC1iMjMxNWFiZGNmN2UiLCJhaWQiOiIwIiwibmV0Ijoid3MiLCJwYXRoIjoiLyIsImhvc3QiOiIiLCJ0bHMiOiIifQ==
@@ -544,6 +543,7 @@ Fork from TopFreeProxies.
     ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@192.71.249.146:990#TG%E9%A2%91%E9%81%93%40mfbpn-0610-BE
     ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU@34.217.211.139:443#TG%E9%A2%91%E9%81%93%40mfbpn-0611-US
     trojan://dc15d997-8b26-4294-870e-c90a5784dca4@naiu-us.05vr9nyqg5.download:13019?allowInsecure=1&sni=cloudflare.node-ssl.cdn-alibaba.com#TG%E9%A2%91%E9%81%93%40mfbpn-0612-CN
+    ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@64.74.163.130:990#TG%E9%A2%91%E9%81%93%40mfbpn-0613-US
     ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU@54.212.222.229:443#TG%E9%A2%91%E9%81%93%40mfbpn-0614-US
     vmess://eyJ2IjoiMiIsInBzIjoiVEfpopHpgZNAbWZicG4tMDYxNS1GQVNUTFkiLCJhZGQiOiJwbGV4LmNvbSIsInBvcnQiOiI4MCIsInR5cGUiOiJub25lIiwiaWQiOiJjYTM4NzU5Ny1kNzllLTQ4YzItODlhNy1lMmRjNjZhODhhNzAiLCJhaWQiOiIwIiwibmV0Ijoid3MiLCJwYXRoIjoiL3JhY2V2cG4/dGVsZWdyYW0tQElTVnZwbi10ZWxlZ3JhbS1ASVNWdnBuLXRlbGVncmFtLUBJU1Z2cG4tdGVsZWdyYW0tQElTVnZwbiIsImhvc3QiOiJwbGV4LmNvbSIsInRscyI6IiJ9
     ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@134.255.210.49:989#TG%E9%A2%91%E9%81%93%40mfbpn-0616-CY
@@ -779,7 +779,7 @@ Fork from TopFreeProxies.
     trojan://telegram-id-privatevpns@13.37.117.82:22222?allowInsecure=1&sni=trojan.burgerip.co.uk#TG%E9%A2%91%E9%81%93%40mfbpn-0939-FR
     ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@37.143.129.230:989#TG%E9%A2%91%E9%81%93%40mfbpn-0940-FI
     ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU@13.209.11.204:443#TG%E9%A2%91%E9%81%93%40mfbpn-0941-KR
-    ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU@3.36.73.26:443#TG%E9%A2%91%E9%81%93%40mfbpn-0942-KRss%2F%2FY2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz%4064.74.163.130990%23TG%E9%A2%91%E9%81%93%40mfbpn-0613-US
+    ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU@3.36.73.26:443#TG%E9%A2%91%E9%81%93%40mfbpn-0942-KRtrojan%2F%2F8b34c254-5358-3c01-b5db-c94fc9d9f0da%40103.136.185.283516%3FallowInsecure%3D1%26sni%3Dfastly.cdn.steampipe.steamcontent.com%23TG%E9%A2%91%E9%81%93%40mfbpn-0572-US
     ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@154.90.63.177:989#TG%E9%A2%91%E9%81%93%40mfbpn-0943-KR
     trojan://Aimer@125.132.46.2:10022?allowInsecure=1&sni=agepq.ambercc.filegear-sg.me#TG%E9%A2%91%E9%81%93%40mfbpn-0944-KR
     trojan://Aimer@14.37.56.164:50000?allowInsecure=1&sni=agepw.ambercc.filegear-sg.me#TG%E9%A2%91%E9%81%93%40mfbpn-0945-KR
