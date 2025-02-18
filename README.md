@@ -960,11 +960,11 @@ Fork from TopFreeProxies.
 </details>
 
 ### 所有节点
-合并节点总数: `1025`
+合并节点总数: `1031`
 [节点链接](https://raw.githubusercontent.com/caijh/TopFreeProxies/master/sub/sub_merge_base64.txt)
 
 ### 节点来源
-- [mfbpn_node](https://github.com/mfbpn/nodelist), 节点数量: `1025`
+- [mfbpn_node](https://github.com/mfbpn/nodelist), 节点数量: `1031`
 
 
 ## 仓库声明
