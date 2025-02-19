@@ -536,7 +536,6 @@ Fork from TopFreeProxies.
     trojan://09fc4ea3-e28a-30b3-b988-d8e1354ad832@35.77.198.143:443?allowInsecure=1&sni=steampipe.akamaized.net#TG%E9%A2%91%E9%81%93%40mfbpn-0602-JP
     trojan://09fc4ea3-e28a-30b3-b988-d8e1354ad832@35.74.5.159:443?allowInsecure=1&sni=akamai.cdn.steampipe.steamcontent.com#TG%E9%A2%91%E9%81%93%40mfbpn-0603-JP
     trojan://09fc4ea3-e28a-30b3-b988-d8e1354ad832@54.244.147.169:443?allowInsecure=1&sni=steampipe-partner.akamaized.net#TG%E9%A2%91%E9%81%93%40mfbpn-0604-US
-    trojan://09fc4ea3-e28a-30b3-b988-d8e1354ad832@103.136.185.27:5535?allowInsecure=1&sni=edge.steam-dns.top.comcast.net#TG%E9%A2%91%E9%81%93%40mfbpn-0605-US
     trojan://09fc4ea3-e28a-30b3-b988-d8e1354ad832@103.136.185.28:3516?allowInsecure=1&sni=fastly.cdn.steampipe.steamcontent.com#TG%E9%A2%91%E9%81%93%40mfbpn-0606-US
     vmess://eyJ2IjoiMiIsInBzIjoiVEfpopHpgZNAbWZicG4tMDYwNy1SRUxBWSIsImFkZCI6Ijk0LjE0MC4wLjExMCIsInBvcnQiOiI4ODgwIiwidHlwZSI6Im5vbmUiLCJpZCI6IjBkMWJmMjZhLWNlOTctNDcwNy1hMjcwLTdmNGQyYWUzNzMzNCIsImFpZCI6IjAiLCJuZXQiOiJ3cyIsInBhdGgiOiIvIiwiaG9zdCI6IiIsInRscyI6IiJ9
     vmess://eyJ2IjoiMiIsInBzIjoiVEfpopHpgZNAbWZicG4tMDYwOC1SRUxBWSIsImFkZCI6IjE4OC4xMTQuOTYuMTEzIiwicG9ydCI6IjgwIiwidHlwZSI6Im5vbmUiLCJpZCI6IjcwMjI5ODJmLWRhNGMtNDhjOS1jNjYwLWIyMzE1YWJkY2Y3ZSIsImFpZCI6IjAiLCJuZXQiOiJ3cyIsInBhdGgiOiIvIiwiaG9zdCI6IiIsInRscyI6IiJ9
@@ -674,6 +673,7 @@ Fork from TopFreeProxies.
     vmess://eyJ2IjoiMiIsInBzIjoiVEfpopHpgZNAbWZicG4tMDc0MC1DTiIsImFkZCI6IjE4My4yLjE5NC4xNDIiLCJwb3J0IjoiMjYwODEiLCJ0eXBlIjoibm9uZSIsImlkIjoiZjYyY2I0NzktN2E3NC00Y2RjLTk1Y2ItNGM3ZTcxMmRmNjdlIiwiYWlkIjoiMCIsIm5ldCI6InRjcCIsInBhdGgiOiIvcm9uZ3NldmVuP2VkPTIwNDgiLCJob3N0IjoiY2xvdWRmbGFyZS4xODI2ODIueHl6IiwidGxzIjoiIn0=
     vmess://eyJ2IjoiMiIsInBzIjoiVEfpopHpgZNAbWZicG4tMDc0Mi1DTiIsImFkZCI6IjE4My4yLjE5NC4xNDIiLCJwb3J0IjoiMjYwMzEiLCJ0eXBlIjoibm9uZSIsImlkIjoiZjYyY2I0NzktN2E3NC00Y2RjLTk1Y2ItNGM3ZTcxMmRmNjdlIiwiYWlkIjoiMCIsIm5ldCI6InRjcCIsInBhdGgiOiIvcm9uZ3NldmVuP2VkPTIwNDgiLCJob3N0IjoiY2xvdWRmbGFyZS4xODI2ODIueHl6IiwidGxzIjoiIn0=
     trojan://telegram-id-directvpn@52.47.207.189:22222?allowInsecure=1&sni=trojan.burgerip.co.uk#TG%E9%A2%91%E9%81%93%40mfbpn-0743-FR
+    trojan://telegram-id-directvpn@54.87.150.85:22222?allowInsecure=1&sni=trojan.burgerip.co.uk#TG%E9%A2%91%E9%81%93%40mfbpn-0744-US
     vmess://eyJ2IjoiMiIsInBzIjoiVEfpopHpgZNAbWZicG4tMDc0NS1DTiIsImFkZCI6IjE4My4yLjE5NC4xNDIiLCJwb3J0IjoiMjYxNTEiLCJ0eXBlIjoibm9uZSIsImlkIjoiMmEwNmI5NzEtZWRmZS00ZTRiLTliZDItZGI1MDA3ODg5MDE0IiwiYWlkIjoiMCIsIm5ldCI6InRjcCIsInBhdGgiOiIvIiwiaG9zdCI6InRyb2phbi5idXJnZXJpcC5jby51ayIsInRscyI6IiJ9
     vmess://eyJ2IjoiMiIsInBzIjoiVEfpopHpgZNAbWZicG4tMDc0Ni1DTiIsImFkZCI6IjE4My4yLjE5NC4xNDIiLCJwb3J0IjoiMjYwMjMiLCJ0eXBlIjoibm9uZSIsImlkIjoiMmEwNmI5NzEtZWRmZS00ZTRiLTliZDItZGI1MDA3ODg5MDE0IiwiYWlkIjoiMCIsIm5ldCI6InRjcCIsInBhdGgiOiIvIiwiaG9zdCI6InRyb2phbi5idXJnZXJpcC5jby51ayIsInRscyI6IiJ9
     vmess://eyJ2IjoiMiIsInBzIjoiVEfpopHpgZNAbWZicG4tMDc0OC1DTiIsImFkZCI6IjE4My4yLjE5NC4xNDIiLCJwb3J0IjoiMjYwNzEiLCJ0eXBlIjoibm9uZSIsImlkIjoiMmEwNmI5NzEtZWRmZS00ZTRiLTliZDItZGI1MDA3ODg5MDE0IiwiYWlkIjoiMCIsIm5ldCI6InRjcCIsInBhdGgiOiIvIiwiaG9zdCI6InRyb2phbi5idXJnZXJpcC5jby51ayIsInRscyI6IiJ9
@@ -955,7 +955,7 @@ Fork from TopFreeProxies.
     ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@185.231.233.112:989#TG%E9%A2%91%E9%81%93%40mfbpn-1026-PT
     ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@185.231.233.173:989#TG%E9%A2%91%E9%81%93%40mfbpn-1027-PT
     ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU@13.209.11.204:443#TG%E9%A2%91%E9%81%93%40mfbpn-1028-KR
-    ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU@3.36.73.26:443#TG%E9%A2%91%E9%81%93%40mfbpn-1029-KRtrojan%2F%2Ftelegram-id-directvpn%4054.87.150.8522222%3FallowInsecure%3D1%26sni%3Dtrojan.burgerip.co.uk%23TG%E9%A2%91%E9%81%93%40mfbpn-0744-US
+    ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU@3.36.73.26:443#TG%E9%A2%91%E9%81%93%40mfbpn-1029-KRtrojan%2F%2F09fc4ea3-e28a-30b3-b988-d8e1354ad832%40103.136.185.275535%3FallowInsecure%3D1%26sni%3Dedge.steam-dns.top.comcast.net%23TG%E9%A2%91%E9%81%93%40mfbpn-0605-US
     vmess://eyJ2IjoiMiIsInBzIjoiVEfpopHpgZNAbWZicG4tMTAzMC1SRUxBWSIsImFkZCI6ImNsb3VkZmxhcmUuMTgyNjgyLnh5eiIsInBvcnQiOiI4MCIsInR5cGUiOiJub25lIiwiaWQiOiJiOWEzMjA2ZC0yNzhjLTQ2MTQtYjM1Mi1lZWY2MzJkMWM4ZDUiLCJhaWQiOiIwIiwibmV0Ijoid3MiLCJwYXRoIjoiL3JvbmdzZXZlbj9lZD0yMDQ4IiwiaG9zdCI6ImNsb3VkZmxhcmUuMTgyNjgyLnh5eiIsInRscyI6IiJ9
     
 
