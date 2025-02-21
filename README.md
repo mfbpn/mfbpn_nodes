@@ -196,7 +196,6 @@ Fork from TopFreeProxies.
     ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@37.143.129.230:989#TG%E9%A2%91%E9%81%93%40mfbpn-0163-FI
     vmess://eyJ2IjoiMiIsInBzIjoiVEfpopHpgZNAbWZicG4tMDE2NC1VUyIsImFkZCI6IjY2LjQyLjg2LjIwMiIsInBvcnQiOiI4ODgxIiwidHlwZSI6Im5vbmUiLCJpZCI6ImRiNWFmYWU0LWFjMjMtNDFhNi04Mzc4LWYzMDdhOWE0NzQzNiIsImFpZCI6IjAiLCJuZXQiOiJodHRwIiwicGF0aCI6Ii8iLCJob3N0IjoiIiwidGxzIjoidGxzIn0=
     trojan://Bw5Mz7QkVp@149.28.84.84:443?allowInsecure=1&sni=z-v2-077053.kailib.com#TG%E9%A2%91%E9%81%93%40mfbpn-0165-US
-    ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjdklJODVUclc2bjBPR3lmcEhWUzF1@45.158.171.132:8080#TG%E9%A2%91%E9%81%93%40mfbpn-0166-FR
     trojan://telegram-id-directvpn@52.19.80.73:22222?allowInsecure=1&sni=trojan.burgerip.co.uk#TG%E9%A2%91%E9%81%93%40mfbpn-0167-IE
     trojan://telegram-id-privatevpns@13.39.208.3:22222?allowInsecure=1&sni=trojan.burgerip.co.uk#TG%E9%A2%91%E9%81%93%40mfbpn-0168-FR
     ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU@13.212.177.74:443#TG%E9%A2%91%E9%81%93%40mfbpn-0169-SG
@@ -616,6 +615,7 @@ Fork from TopFreeProxies.
     ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjdklJODVUclc2bjBPR3lmcEhWUzF1@45.87.175.171:8080#TG%E9%A2%91%E9%81%93%40mfbpn-0686-LT
     vmess://eyJ2IjoiMiIsInBzIjoiVEfpopHpgZNAbWZicG4tMDY4Ny1DTiIsImFkZCI6IjEyMC4yMzIuMTUzLjEyMyIsInBvcnQiOiI0NTQwMiIsInR5cGUiOiJub25lIiwiaWQiOiI0MTgwNDhhZi1hMjkzLTRiOTktOWIwYy05OGNhMzU4MGRkMjQiLCJhaWQiOiIwIiwibmV0IjoidGNwIiwicGF0aCI6Ii8iLCJob3N0IjoiY2xvdWRmbGFyZS5ub2RlLXNzbC5jZG4tYWxpYmFiYS5jb20iLCJ0bHMiOiIifQ==
     vmess://eyJ2IjoiMiIsInBzIjoiVEfpopHpgZNAbWZicG4tMDY4OC1DTiIsImFkZCI6IjE4My4yMzYuNTEuMzgiLCJwb3J0IjoiNTkxMDQiLCJ0eXBlIjoibm9uZSIsImlkIjoiNDE4MDQ4YWYtYTI5My00Yjk5LTliMGMtOThjYTM1ODBkZDI0IiwiYWlkIjoiMCIsIm5ldCI6InRjcCIsInBhdGgiOiIvIiwiaG9zdCI6ImNsb3VkZmxhcmUubm9kZS1zc2wuY2RuLWFsaWJhYmEuY29tIiwidGxzIjoiIn0=
+    trojan://telegram-id-privatevpns@13.37.153.179:22222?allowInsecure=1&sni=trojan.burgerip.co.uk#TG%E9%A2%91%E9%81%93%40mfbpn-0689-FR
     trojan://Aimer@156.251.180.181:21698?allowInsecure=1&sni=agept.ambercc.filegear-sg.me#TG%E9%A2%91%E9%81%93%40mfbpn-0690-US
     trojan://Aimer@154.83.95.100:8770?allowInsecure=1&sni=agept.ambercc.filegear-sg.me#TG%E9%A2%91%E9%81%93%40mfbpn-0691-MY
     trojan://Aimer@47.128.215.165:33522?allowInsecure=1&sni=agept.ambercc.filegear-sg.me#TG%E9%A2%91%E9%81%93%40mfbpn-0692-SG
@@ -1142,11 +1142,11 @@ Fork from TopFreeProxies.
 </details>
 
 ### 所有节点
-合并节点总数: `1208`
+合并节点总数: `1204`
 [节点链接](https://raw.githubusercontent.com/caijh/TopFreeProxies/master/sub/sub_merge_base64.txt)
 
 ### 节点来源
-- [mfbpn_node](https://github.com/mfbpn/nodelist), 节点数量: `1208`
+- [mfbpn_node](https://github.com/mfbpn/nodelist), 节点数量: `1204`
 
 
 ## 仓库声明
