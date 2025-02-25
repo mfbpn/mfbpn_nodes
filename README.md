@@ -26,7 +26,7 @@ Fork from TopFreeProxies.
 
 ## 节点信息
 ### 高速节点
-高速节点数量: `1179`
+高速节点数量: `1178`
 <details>
   <summary>展开复制节点</summary>
 
@@ -261,7 +261,6 @@ Fork from TopFreeProxies.
     ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@37.143.129.230:989#TG%E9%A2%91%E9%81%93%40mfbpn-0228-FI
     vmess://eyJ2IjoiMiIsInBzIjoiVEfpopHpgZNAbWZicG4tMDIyOS1VUyIsImFkZCI6IjY2LjQyLjg2LjIwMiIsInBvcnQiOiI4ODgxIiwidHlwZSI6Im5vbmUiLCJpZCI6ImRiNWFmYWU0LWFjMjMtNDFhNi04Mzc4LWYzMDdhOWE0NzQzNiIsImFpZCI6IjAiLCJuZXQiOiJodHRwIiwicGF0aCI6Ii8iLCJob3N0IjoiIiwidGxzIjoidGxzIn0=
     trojan://Bw5Mz7QkVp@149.28.84.84:443?allowInsecure=1&sni=z-v2-077053.kailib.com#TG%E9%A2%91%E9%81%93%40mfbpn-0230-US
-    ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjdklJODVUclc2bjBPR3lmcEhWUzF1@45.158.171.132:8080#TG%E9%A2%91%E9%81%93%40mfbpn-0231-FR
     trojan://telegram-id-directvpn@52.19.80.73:22222?allowInsecure=1&sni=trojan.burgerip.co.uk#TG%E9%A2%91%E9%81%93%40mfbpn-0232-IE
     trojan://telegram-id-privatevpns@13.39.208.3:22222?allowInsecure=1&sni=trojan.burgerip.co.uk#TG%E9%A2%91%E9%81%93%40mfbpn-0233-FR
     ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU@13.212.177.74:443#TG%E9%A2%91%E9%81%93%40mfbpn-0234-SG
@@ -727,7 +726,7 @@ Fork from TopFreeProxies.
     trojan://telegram-id-privatevpns@15.236.31.11:22222?allowInsecure=1&sni=trojan.burgerip.co.uk#TG%E9%A2%91%E9%81%93%40mfbpn-0796-FR
     ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpZVE5qTkRZNQ@185.234.64.35:8388#TG%E9%A2%91%E9%81%93%40mfbpn-0797-FR
     ss://YWVzLTI1Ni1nY206TFpRMFI5Qkw2OUdDQzZGUw@8tv68qhq.slashdevslashnetslashtun.net:15005#TG%E9%A2%91%E9%81%93%40mfbpn-0798-CN
-    trojan://Aimer@185.148.13.158:587?allowInsecure=1&sni=trojan.burgerip.co.uk#TG%E9%A2%91%E9%81%93%40mfbpn-0799-IE
+    trojan://telegram-id-privatevpns@63.33.28.211:22222?allowInsecure=1&sni=trojan.burgerip.co.uk#TG%E9%A2%91%E9%81%93%40mfbpn-0799-IE
     vmess://eyJ2IjoiMiIsInBzIjoiVEfpopHpgZNAbWZicG4tMDgwMC1ISyIsImFkZCI6IjQ1LjE0NC4xNzQuMTIiLCJwb3J0IjoiMjAzMzAiLCJ0eXBlIjoibm9uZSIsImlkIjoiYmVhYWQ5MWItNDBjYi00YWE1LTliYzgtYjQxMmEwMjNmMWNhIiwiYWlkIjoiMCIsIm5ldCI6IndzIiwicGF0aCI6Ii8iLCJob3N0IjoiIiwidGxzIjoiIn0=
     ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0YTJyZml4b3BoZGpmZmE4S1ZBNEFh@beesyar.org:8080#TG%E9%A2%91%E9%81%93%40mfbpn-0801-LT
     trojan://telegram-id-privatevpns@15.237.103.249:22222?allowInsecure=1&sni=trojan.burgerip.co.uk#TG%E9%A2%91%E9%81%93%40mfbpn-0802-FR
