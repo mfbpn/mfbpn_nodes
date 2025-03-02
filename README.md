@@ -26,7 +26,7 @@ Fork from TopFreeProxies.
 
 ## 节点信息
 ### 高速节点
-高速节点数量: `1147`
+高速节点数量: `1148`
 <details>
   <summary>展开复制节点</summary>
 
@@ -128,7 +128,6 @@ Fork from TopFreeProxies.
     ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU@35.92.121.207:443#TG%E9%A2%91%E9%81%93%40mfbpn-0095-US
     ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU@44.243.45.146:443#TG%E9%A2%91%E9%81%93%40mfbpn-0096-US
     ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU@52.34.200.48:443#TG%E9%A2%91%E9%81%93%40mfbpn-0097-US
-    ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0YTJyZml4b3BoZGpmZmE4S1ZBNEFh@45.87.175.199:8080#TG%E9%A2%91%E9%81%93%40mfbpn-0098-LT
     trojan://telegram-id-privatevpns@52.59.173.57:22222?allowInsecure=1&sni=trojan.burgerip.co.uk#TG%E9%A2%91%E9%81%93%40mfbpn-0099-DE
     ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU@34.217.75.205:443#TG%E9%A2%91%E9%81%93%40mfbpn-0100-US
     vmess://eyJ2IjoiMiIsInBzIjoiVEfpopHpgZNAbWZicG4tMDEwMS1VUyIsImFkZCI6IjEwNy4xNDguMjA3LjI0OSIsInBvcnQiOiI0ODcxMiIsInR5cGUiOiJub25lIiwiaWQiOiI0MTgwNDhhZi1hMjkzLTRiOTktOWIwYy05OGNhMzU4MGRkMjQiLCJhaWQiOiI2NCIsIm5ldCI6InRjcCIsInBhdGgiOiIvIiwiaG9zdCI6InRyb2phbi5idXJnZXJpcC5jby51ayIsInRscyI6IiJ9
@@ -835,6 +834,7 @@ Fork from TopFreeProxies.
     ss://YWVzLTI1Ni1nY206ZmFCQW9ENTRrODdVSkc3@54.36.174.181:2376#TG%E9%A2%91%E9%81%93%40mfbpn-0901-FR
     ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpPVFZsTXpjeQ@185.231.205.179:8388#TG%E9%A2%91%E9%81%93%40mfbpn-0902-FR
     vmess://eyJ2IjoiMiIsInBzIjoiVEfpopHpgZNAbWZicG4tMDkwMy1TRyIsImFkZCI6IjYyLjE0Ni4yMzIuMTU2IiwicG9ydCI6IjMzMjgxIiwidHlwZSI6Im5vbmUiLCJpZCI6IjI0ZWRhMGVhLWFjZjAtNDUzOC1hMDAxLWY3NDZhNDgwMjM3YSIsImFpZCI6IjAiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiLyIsImhvc3QiOiIiLCJ0bHMiOiIifQ==
+    vmess://eyJ2IjoiMiIsInBzIjoiVEfpopHpgZNAbWZicG4tMDkwNC1NWCIsImFkZCI6Ijc5LjEyNy4yMjkuNTQiLCJwb3J0IjoiMTgwMDAiLCJ0eXBlIjoibm9uZSIsImlkIjoiZmExODk3ZGItMTkyNS00Yzg2LWE0OTUtOTM5YTk1OWFmOTAwIiwiYWlkIjoiMCIsIm5ldCI6InRjcCIsInBhdGgiOiIvIiwiaG9zdCI6IiIsInRscyI6IiJ9
     trojan://telegram-id-privatevpns@3.70.63.203:22222?allowInsecure=1&sni=trojan.burgerip.co.uk#TG%E9%A2%91%E9%81%93%40mfbpn-0905-DE
     trojan://telegram-id-privatevpns@108.128.24.143:22222?allowInsecure=1&sni=trojan.burgerip.co.uk#TG%E9%A2%91%E9%81%93%40mfbpn-0906-IE
     ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1MTdUM0J2cFlhYWl1VzJj@74.177.116.46:443#TG%E9%A2%91%E9%81%93%40mfbpn-0907-GB
@@ -1153,7 +1153,7 @@ Fork from TopFreeProxies.
     ss://YWVzLTI1Ni1nY206Y2RCSURWNDJEQ3duZklO@167.88.61.213:8118#TG%E9%A2%91%E9%81%93%40mfbpn-1225-US
     ss://YWVzLTI1Ni1nY206ZzVNZUQ2RnQzQ1dsSklk@167.88.61.213:5004#TG%E9%A2%91%E9%81%93%40mfbpn-1226-US
     ss://YWVzLTI1Ni1nY206VEV6amZBWXEySWp0dW9T@169.197.142.99:6679#TG%E9%A2%91%E9%81%93%40mfbpn-1227-US
-    ss://YWVzLTI1Ni1nY206UENubkg2U1FTbmZvUzI3@169.197.142.99:8091#TG%E9%A2%91%E9%81%93%40mfbpn-1228-US
+    ss://YWVzLTI1Ni1nY206UENubkg2U1FTbmZvUzI3@169.197.142.99:8091#TG%E9%A2%91%E9%81%93%40mfbpn-1228-USss%2F%2FY2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0YTJyZml4b3BoZGpmZmE4S1ZBNEFh%4045.87.175.1998080%23TG%E9%A2%91%E9%81%93%40mfbpn-0098-LT
     ss://YWVzLTI1Ni1nY206ZTRGQ1dyZ3BramkzUVk@169.197.142.99:9102#TG%E9%A2%91%E9%81%93%40mfbpn-1229-US
     ss://YWVzLTI1Ni1nY206UmV4bkJnVTdFVjVBRHhH@169.197.142.99:7001#TG%E9%A2%91%E9%81%93%40mfbpn-1230-US
     ss://YWVzLTI1Ni1nY206Y2RCSURWNDJEQ3duZklO@169.197.142.99:8118#TG%E9%A2%91%E9%81%93%40mfbpn-1231-US
@@ -1174,6 +1174,7 @@ Fork from TopFreeProxies.
     ss://YWVzLTI1Ni1nY206Rm9PaUdsa0FBOXlQRUdQ@38.91.107.66:7306#TG%E9%A2%91%E9%81%93%40mfbpn-1246-US
     ss://YWVzLTI1Ni1nY206VEV6amZBWXEySWp0dW9T@38.91.107.66:6697#TG%E9%A2%91%E9%81%93%40mfbpn-1247-US
     ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M@38.91.107.66:5601#TG%E9%A2%91%E9%81%93%40mfbpn-1248-US
+    ss://YWVzLTI1Ni1nY206S2l4THZLendqZWtHMDBybQ@38.91.107.66:8080#TG%E9%A2%91%E9%81%93%40mfbpn-1249-US
     ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@185.231.233.173:989#TG%E9%A2%91%E9%81%93%40mfbpn-1250-PT
     ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU@52.78.98.113:443#TG%E9%A2%91%E9%81%93%40mfbpn-1251-KR
     
@@ -1182,11 +1183,11 @@ Fork from TopFreeProxies.
 </details>
 
 ### 所有节点
-合并节点总数: `1250`
+合并节点总数: `1245`
 [节点链接](https://raw.githubusercontent.com/caijh/TopFreeProxies/master/sub/sub_merge_base64.txt)
 
 ### 节点来源
-- [mfbpn_node](https://github.com/mfbpn/nodelist), 节点数量: `1250`
+- [mfbpn_node](https://github.com/mfbpn/nodelist), 节点数量: `1245`
 
 
 ## 仓库声明
