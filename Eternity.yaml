@@ -805,7 +805,6 @@ proxies:
   - {name: TG频道@mfbpn-0848-IN, server: 185.67.125.177, port: 443, type: trojan, password: !<str> 3747000103274291200, sni: quality-albacore.adder289.quest, skip-cert-verify: true, udp: true}
   - {name: TG频道@mfbpn-0849-US, server: 156.146.38.170, port: 443, type: ss, cipher: aes-128-gcm, password: shadowsocks, udp: true}
   - {name: TG频道@mfbpn-0850-US, server: 156.146.38.167, port: 443, type: ss, cipher: aes-128-gcm, password: shadowsocks, udp: true}
-  - {name: TG频道@mfbpn-0851-US, server: 156.146.38.169, port: 443, type: ss, cipher: aes-128-gcm, password: shadowsocks, udp: true}
   - {name: TG频道@mfbpn-0852-US, server: 173.244.56.6, port: 443, type: ss, cipher: aes-128-gcm, password: shadowsocks, udp: true}
   - {name: TG频道@mfbpn-0853-IN, server: 185.67.125.78, port: 443, type: trojan, password: !<str> 3774827088566296576, sni: deciding-mantis.treefrog761.one, skip-cert-verify: true, udp: true}
   - {name: TG频道@mfbpn-0854-US, server: 173.244.56.9, port: 443, type: ss, cipher: aes-128-gcm, password: shadowsocks, udp: true}
@@ -868,6 +867,7 @@ proxies:
   - {name: TG频道@mfbpn-0912-CA, server: 23.162.200.91, port: 20182, type: vmess, uuid: cc9b66b7-1de7-4aa9-9642-575a8ae3ff19, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
   - {name: TG频道@mfbpn-0913-PL, server: 31.186.86.47, port: 2033, type: vmess, uuid: 301fad67-1288-47a9-b3ca-22b823e4e789, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: "/vmess-argo?ed=2048"}, udp: true}
   - {name: TG频道@mfbpn-0914-RELAY, server: 104.16.155.10, port: 2082, type: vmess, uuid: 4b36625c-b9d9-3ea6-aed5-86d62c70e16d, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /dabai.in104.18.42.172}, udp: true}
+  - {name: TG频道@mfbpn-0915-US, server: 15.204.86.120, port: 35696, type: vmess, uuid: cad0504a-a9dc-4d29-8844-b11b69f14a8d, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
   - {name: TG频道@mfbpn-0916-SG, server: 154.26.129.247, port: 57143, type: vmess, uuid: 28efbf36-079a-4c98-8470-d13458db6ee6, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
   - {name: TG频道@mfbpn-0917-JP, server: 152.69.197.60, port: 1069, type: vmess, uuid: ac8e26fe-8150-4b60-ae64-82fc77eba2cf, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
   - {name: TG频道@mfbpn-0918-RELAY, server: 104.21.3.219, port: 8443, type: vmess, uuid: c313606f-98c2-4d7b-ba74-48b94f61b11d, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /}, udp: true}
@@ -1175,6 +1175,7 @@ proxies:
   - {name: TG频道@mfbpn-1225-US, server: 38.91.107.66, port: 5601, type: ss, cipher: aes-256-gcm, password: Y6R9pAtvxxzmGC, udp: true}
   - {name: TG频道@mfbpn-1226-US, server: 38.91.107.66, port: 8080, type: ss, cipher: aes-256-gcm, password: KixLvKzwjekG00rm, udp: true}
   - {name: TG频道@mfbpn-1227-PT, server: 185.231.233.173, port: 989, type: ss, cipher: aes-256-cfb, password: f8f7aCzcPKbsF8p3, udp: true}
+  - {name: TG频道@mfbpn-1228-KRss//YWVzLTEyOC1nY206c2hhZG93c29ja3M@156.146.38.169443#TG频道@mfbpn-0851-US, server: 52.78.98.113, port: 443, type: ss, cipher: aes-256-cfb, password: amazonskr05, udp: true}
 proxy-groups:
   - name: 节点选择
     type: select
@@ -1937,7 +1938,6 @@ proxy-groups:
       - TG频道@mfbpn-0848-IN
       - TG频道@mfbpn-0849-US
       - TG频道@mfbpn-0850-US
-      - TG频道@mfbpn-0851-US
       - TG频道@mfbpn-0852-US
       - TG频道@mfbpn-0853-IN
       - TG频道@mfbpn-0854-US
@@ -2000,6 +2000,7 @@ proxy-groups:
       - TG频道@mfbpn-0912-CA
       - TG频道@mfbpn-0913-PL
       - TG频道@mfbpn-0914-RELAY
+      - TG频道@mfbpn-0915-US
       - TG频道@mfbpn-0916-SG
       - TG频道@mfbpn-0917-JP
       - TG频道@mfbpn-0918-RELAY
@@ -2307,6 +2308,7 @@ proxy-groups:
       - TG频道@mfbpn-1225-US
       - TG频道@mfbpn-1226-US
       - TG频道@mfbpn-1227-PT
+      - TG频道@mfbpn-1228-KRss//YWVzLTEyOC1nY206c2hhZG93c29ja3M@156.146.38.169443#TG频道@mfbpn-0851-US
   - name: 自动选择
     type: url-test
     url: https://www.pornhub.com
@@ -2472,7 +2474,6 @@ proxy-groups:
       - TG频道@mfbpn-0836-FR
       - TG频道@mfbpn-0841-JP
       - TG频道@mfbpn-0846-US
-      - TG频道@mfbpn-0851-US
       - TG频道@mfbpn-0856-FR
       - TG频道@mfbpn-0861-US
       - TG频道@mfbpn-0866-NL
@@ -2547,6 +2548,7 @@ proxy-groups:
       - TG频道@mfbpn-1216-US
       - TG频道@mfbpn-1221-US
       - TG频道@mfbpn-1226-US
+      - TG频道@mfbpn-1228-KRss//YWVzLTEyOC1nY206c2hhZG93c29ja3M@156.146.38.169443#TG频道@mfbpn-0851-US
   - name: 测速2分组
     type: url-test
     url: https://www.gstatic.com/generate_204
@@ -3004,6 +3006,7 @@ proxy-groups:
       - TG频道@mfbpn-1213-US
       - TG频道@mfbpn-1218-US
       - TG频道@mfbpn-1223-US
+      - TG频道@mfbpn-1228-KRss//YWVzLTEyOC1nY206c2hhZG93c29ja3M@156.146.38.169443#TG频道@mfbpn-0851-US
   - name: 测速4分组
     type: url-test
     url: https://www.gstatic.com/generate_204
@@ -3403,6 +3406,7 @@ proxy-groups:
       - TG频道@mfbpn-0900-FR
       - TG频道@mfbpn-0905-IN
       - TG频道@mfbpn-0910-CH
+      - TG频道@mfbpn-0915-US
       - TG频道@mfbpn-0920-IN
       - TG频道@mfbpn-0925-SG
       - TG频道@mfbpn-0930-AU
@@ -11645,66 +11649,95 @@ rules:
  - DOMAIN-SUFFIX,youku.com,全球直连
  - IP-CIDR,106.11.0.0/16,全球直连,no-resolve
  - IP-CIDR,8.128.0.0/10,全球直连,no-resolve
- - IP-CIDR,8.208.0.0/12,全球直连,no-resolve
+ - IP-CIDR,8.209.32.0/22,全球直连,no-resolve
+ - IP-CIDR,8.209.40.0/21,全球直连,no-resolve
+ - IP-CIDR,8.209.48.0/20,全球直连,no-resolve
+ - IP-CIDR,8.210.0.0/16,全球直连,no-resolve
+ - IP-CIDR,8.211.64.0/18,全球直连,no-resolve
+ - IP-CIDR,8.211.128.0/20,全球直连,no-resolve
+ - IP-CIDR,8.211.144.0/21,全球直连,no-resolve
+ - IP-CIDR,8.211.152.0/22,全球直连,no-resolve
+ - IP-CIDR,8.211.208.0/20,全球直连,no-resolve
+ - IP-CIDR,8.211.224.0/19,全球直连,no-resolve
+ - IP-CIDR,8.212.0.0/14,全球直连,no-resolve
+ - IP-CIDR,8.216.0.0/13,全球直连,no-resolve
  - IP-CIDR,14.1.112.0/22,全球直连,no-resolve
- - IP-CIDR,41.222.240.0/22,全球直连,no-resolve
- - IP-CIDR,41.223.119.0/24,全球直连,no-resolve
- - IP-CIDR,43.242.168.0/22,全球直连,no-resolve
  - IP-CIDR,45.112.212.0/22,全球直连,no-resolve
  - IP-CIDR,47.52.0.0/16,全球直连,no-resolve
  - IP-CIDR,47.56.0.0/15,全球直连,no-resolve
- - IP-CIDR,47.74.0.0/15,全球直连,no-resolve
- - IP-CIDR,47.76.0.0/14,全球直连,no-resolve
- - IP-CIDR,47.80.0.0/12,全球直连,no-resolve
- - IP-CIDR,47.235.0.0/16,全球直连,no-resolve
- - IP-CIDR,47.236.0.0/14,全球直连,no-resolve
- - IP-CIDR,47.240.0.0/14,全球直连,no-resolve
- - IP-CIDR,47.244.0.0/15,全球直连,no-resolve
- - IP-CIDR,47.246.0.0/16,全球直连,no-resolve
- - IP-CIDR,47.250.0.0/15,全球直连,no-resolve
- - IP-CIDR,47.252.0.0/15,全球直连,no-resolve
- - IP-CIDR,47.254.0.0/16,全球直连,no-resolve
+ - IP-CIDR,47.75.0.0/16,全球直连,no-resolve
+ - IP-CIDR,47.89.0.0/18,全球直连,no-resolve
+ - IP-CIDR,47.89.64.0/24,全球直连,no-resolve
+ - IP-CIDR,47.89.82.0/23,全球直连,no-resolve
+ - IP-CIDR,47.89.91.0/24,全球直连,no-resolve
+ - IP-CIDR,47.89.100.0/23,全球直连,no-resolve
+ - IP-CIDR,47.90.0.0/17,全球直连,no-resolve
+ - IP-CIDR,47.91.128.0/17,全球直连,no-resolve
+ - IP-CIDR,47.92.0.0/14,全球直连,no-resolve
+ - IP-CIDR,47.240.0.0/16,全球直连,no-resolve
+ - IP-CIDR,47.242.0.0/15,全球直连,no-resolve
+ - IP-CIDR,47.244.0.0/16,全球直连,no-resolve
+ - IP-CIDR,47.246.5.0/24,全球直连,no-resolve
+ - IP-CIDR,47.246.16.0/24,全球直连,no-resolve
+ - IP-CIDR,47.246.60.0/23,全球直连,no-resolve
+ - IP-CIDR,47.246.65.0/24,全球直连,no-resolve
  - IP-CIDR,59.82.0.0/20,全球直连,no-resolve
  - IP-CIDR,59.82.240.0/21,全球直连,no-resolve
  - IP-CIDR,59.82.248.0/22,全球直连,no-resolve
- - IP-CIDR,72.254.0.0/16,全球直连,no-resolve
- - IP-CIDR,103.38.56.0/22,全球直连,no-resolve
  - IP-CIDR,103.52.76.0/22,全球直连,no-resolve
  - IP-CIDR,103.206.40.0/22,全球直连,no-resolve
  - IP-CIDR,110.76.21.0/24,全球直连,no-resolve
  - IP-CIDR,110.76.23.0/24,全球直连,no-resolve
  - IP-CIDR,112.125.0.0/17,全球直连,no-resolve
- - IP-CIDR,116.251.64.0/18,全球直连,no-resolve
+ - IP-CIDR,116.251.79.0/24,全球直连,no-resolve
+ - IP-CIDR,116.251.80.0/22,全球直连,no-resolve
+ - IP-CIDR,116.251.84.0/24,全球直连,no-resolve
+ - IP-CIDR,116.251.88.0/22,全球直连,no-resolve
+ - IP-CIDR,116.251.93.0/24,全球直连,no-resolve
+ - IP-CIDR,116.251.94.0/23,全球直连,no-resolve
+ - IP-CIDR,116.251.102.0/23,全球直连,no-resolve
+ - IP-CIDR,116.251.104.0/21,全球直连,no-resolve
+ - IP-CIDR,116.251.112.0/21,全球直连,no-resolve
+ - IP-CIDR,116.251.124.0/22,全球直连,no-resolve
  - IP-CIDR,119.38.208.0/20,全球直连,no-resolve
  - IP-CIDR,119.38.224.0/20,全球直连,no-resolve
  - IP-CIDR,119.42.224.0/20,全球直连,no-resolve
- - IP-CIDR,139.95.0.0/16,全球直连,no-resolve
  - IP-CIDR,140.205.1.0/24,全球直连,no-resolve
  - IP-CIDR,140.205.122.0/24,全球直连,no-resolve
- - IP-CIDR,147.139.0.0/16,全球直连,no-resolve
- - IP-CIDR,149.129.0.0/16,全球直连,no-resolve
- - IP-CIDR,155.102.0.0/16,全球直连,no-resolve
- - IP-CIDR,161.117.0.0/16,全球直连,no-resolve
- - IP-CIDR,163.181.0.0/16,全球直连,no-resolve
- - IP-CIDR,170.33.0.0/16,全球直连,no-resolve
- - IP-CIDR,198.11.128.0/18,全球直连,no-resolve
- - IP-CIDR,205.204.96.0/19,全球直连,no-resolve
- - IP-CIDR,19.28.0.0/23,全球直连,no-resolve
+ - IP-CIDR,149.129.64.0/18,全球直连,no-resolve
+ - IP-CIDR,163.181.32.0/22,全球直连,no-resolve
+ - IP-CIDR,163.181.40.0/24,全球直连,no-resolve
+ - IP-CIDR,170.33.0.0/22,全球直连,no-resolve
+ - IP-CIDR,198.11.141.0/24,全球直连,no-resolve
+ - IP-CIDR,198.11.184.0/21,全球直连,no-resolve
+ - IP-CIDR,205.204.104.0/23,全球直连,no-resolve
+ - IP-CIDR,205.204.117.0/24,全球直连,no-resolve
+ - IP-CIDR,205.204.122.0/23,全球直连,no-resolve
+ - IP-CIDR,205.204.124.0/22,全球直连,no-resolve
  - IP-CIDR,45.40.192.0/19,全球直连,no-resolve
- - IP-CIDR,49.51.0.0/16,全球直连,no-resolve
+ - IP-CIDR,49.51.56.0/22,全球直连,no-resolve
+ - IP-CIDR,49.51.60.0/23,全球直连,no-resolve
+ - IP-CIDR,49.51.110.0/23,全球直连,no-resolve
+ - IP-CIDR,49.51.112.0/20,全球直连,no-resolve
  - IP-CIDR,62.234.0.0/16,全球直连,no-resolve
  - IP-CIDR,94.191.0.0/17,全球直连,no-resolve
  - IP-CIDR,103.7.28.0/22,全球直连,no-resolve
- - IP-CIDR,103.116.50.0/23,全球直连,no-resolve
- - IP-CIDR,103.231.60.0/24,全球直连,no-resolve
  - IP-CIDR,109.244.0.0/16,全球直连,no-resolve
  - IP-CIDR,111.30.128.0/21,全球直连,no-resolve
  - IP-CIDR,111.30.136.0/24,全球直连,no-resolve
  - IP-CIDR,111.30.139.0/24,全球直连,no-resolve
  - IP-CIDR,111.30.140.0/23,全球直连,no-resolve
  - IP-CIDR,115.159.0.0/16,全球直连,no-resolve
- - IP-CIDR,119.28.0.0/15,全球直连,no-resolve
- - IP-CIDR,120.88.56.0/23,全球直连,no-resolve
+ - IP-CIDR,119.28.0.0/18,全球直连,no-resolve
+ - IP-CIDR,119.28.64.0/19,全球直连,no-resolve
+ - IP-CIDR,119.28.124.0/23,全球直连,no-resolve
+ - IP-CIDR,119.28.128.0/20,全球直连,no-resolve
+ - IP-CIDR,119.28.164.0/22,全球直连,no-resolve
+ - IP-CIDR,119.28.168.0/21,全球直连,no-resolve
+ - IP-CIDR,119.28.176.0/20,全球直连,no-resolve
+ - IP-CIDR,119.28.192.0/19,全球直连,no-resolve
+ - IP-CIDR,119.28.224.0/21,全球直连,no-resolve
+ - IP-CIDR,119.29.0.0/16,全球直连,no-resolve
  - IP-CIDR,121.51.0.0/16,全球直连,no-resolve
  - IP-CIDR,129.28.0.0/16,全球直连,no-resolve
  - IP-CIDR,129.204.0.0/16,全球直连,no-resolve
@@ -11712,61 +11745,46 @@ rules:
  - IP-CIDR,132.232.0.0/16,全球直连,no-resolve
  - IP-CIDR,134.175.0.0/16,全球直连,no-resolve
  - IP-CIDR,146.56.192.0/18,全球直连,no-resolve
- - IP-CIDR,148.70.0.0/16,全球直连,no-resolve
- - IP-CIDR,150.109.0.0/16,全球直连,no-resolve
+ - IP-CIDR,150.109.32.0/19,全球直连,no-resolve
+ - IP-CIDR,150.109.64.0/20,全球直连,no-resolve
+ - IP-CIDR,150.109.96.0/19,全球直连,no-resolve
  - IP-CIDR,152.136.0.0/16,全球直连,no-resolve
  - IP-CIDR,162.14.0.0/16,全球直连,no-resolve
- - IP-CIDR,162.62.0.0/16,全球直连,no-resolve
- - IP-CIDR,170.106.130.0/24,全球直连,no-resolve
  - IP-CIDR,182.254.0.0/16,全球直连,no-resolve
  - IP-CIDR,188.131.128.0/17,全球直连,no-resolve
  - IP-CIDR,203.195.128.0/17,全球直连,no-resolve
- - IP-CIDR,203.205.128.0/17,全球直连,no-resolve
- - IP-CIDR,210.4.138.0/24,全球直连,no-resolve
- - IP-CIDR,211.152.128.0/23,全球直连,no-resolve
- - IP-CIDR,211.152.132.0/23,全球直连,no-resolve
- - IP-CIDR,211.152.148.0/23,全球直连,no-resolve
+ - IP-CIDR,203.205.128.0/20,全球直连,no-resolve
+ - IP-CIDR,203.205.144.0/21,全球直连,no-resolve
+ - IP-CIDR,203.205.158.0/24,全球直连,no-resolve
+ - IP-CIDR,203.205.180.0/22,全球直连,no-resolve
+ - IP-CIDR,203.205.208.0/22,全球直连,no-resolve
+ - IP-CIDR,203.205.212.0/23,全球直连,no-resolve
+ - IP-CIDR,203.205.218.0/23,全球直连,no-resolve
+ - IP-CIDR,203.205.220.0/22,全球直连,no-resolve
+ - IP-CIDR,203.205.248.0/21,全球直连,no-resolve
  - IP-CIDR,212.64.0.0/17,全球直连,no-resolve
  - IP-CIDR,212.129.128.0/17,全球直连,no-resolve
- - IP-CIDR,45.113.192.0/22,全球直连,no-resolve
- - IP-CIDR,63.217.23.0/24,全球直连,no-resolve
+ - IP-CIDR,45.113.194.0/23,全球直连,no-resolve
  - IP-CIDR,63.243.252.0/24,全球直连,no-resolve
  - IP-CIDR,103.235.44.0/22,全球直连,no-resolve
- - IP-CIDR,104.193.88.0/22,全球直连,no-resolve
  - IP-CIDR,106.12.0.0/15,全球直连,no-resolve
  - IP-CIDR,114.28.224.0/20,全球直连,no-resolve
- - IP-CIDR,119.63.192.0/21,全球直连,no-resolve
- - IP-CIDR,180.76.0.0/24,全球直连,no-resolve
  - IP-CIDR,180.76.0.0/16,全球直连,no-resolve
  - IP-CIDR,182.61.0.0/16,全球直连,no-resolve
- - IP-CIDR,185.10.104.0/22,全球直连,no-resolve
+ - IP-CIDR,185.10.105.0/24,全球直连,no-resolve
  - IP-CIDR,202.46.48.0/20,全球直连,no-resolve
  - IP-CIDR,203.90.238.0/24,全球直连,no-resolve
  - IP-CIDR,43.254.0.0/22,全球直连,no-resolve
  - IP-CIDR,45.249.212.0/22,全球直连,no-resolve
  - IP-CIDR,49.4.0.0/17,全球直连,no-resolve
- - IP-CIDR,78.101.192.0/19,全球直连,no-resolve
- - IP-CIDR,78.101.224.0/20,全球直连,no-resolve
- - IP-CIDR,81.52.161.0/24,全球直连,no-resolve
- - IP-CIDR,85.97.220.0/22,全球直连,no-resolve
  - IP-CIDR,103.31.200.0/22,全球直连,no-resolve
- - IP-CIDR,103.69.140.0/23,全球直连,no-resolve
  - IP-CIDR,103.218.216.0/22,全球直连,no-resolve
  - IP-CIDR,114.115.128.0/17,全球直连,no-resolve
  - IP-CIDR,114.116.0.0/16,全球直连,no-resolve
  - IP-CIDR,116.63.128.0/18,全球直连,no-resolve
  - IP-CIDR,116.66.184.0/22,全球直连,no-resolve
- - IP-CIDR,116.71.96.0/20,全球直连,no-resolve
- - IP-CIDR,116.71.128.0/21,全球直连,no-resolve
- - IP-CIDR,116.71.136.0/22,全球直连,no-resolve
- - IP-CIDR,116.71.141.0/24,全球直连,no-resolve
- - IP-CIDR,116.71.142.0/24,全球直连,no-resolve
- - IP-CIDR,116.71.243.0/24,全球直连,no-resolve
- - IP-CIDR,116.71.244.0/24,全球直连,no-resolve
- - IP-CIDR,116.71.251.0/24,全球直连,no-resolve
  - IP-CIDR,117.78.0.0/18,全球直连,no-resolve
  - IP-CIDR,119.3.0.0/16,全球直连,no-resolve
- - IP-CIDR,119.8.0.0/21,全球直连,no-resolve
  - IP-CIDR,119.8.32.0/19,全球直连,no-resolve
  - IP-CIDR,121.36.0.0/17,全球直连,no-resolve
  - IP-CIDR,121.36.128.0/18,全球直连,no-resolve
@@ -11795,37 +11813,7 @@ rules:
  - IP-CIDR,159.138.96.0/20,全球直连,no-resolve
  - IP-CIDR,159.138.112.0/21,全球直连,no-resolve
  - IP-CIDR,159.138.125.0/24,全球直连,no-resolve
- - IP-CIDR,159.138.128.0/18,全球直连,no-resolve
- - IP-CIDR,159.138.192.0/20,全球直连,no-resolve
- - IP-CIDR,159.138.223.0/24,全球直连,no-resolve
- - IP-CIDR,159.138.224.0/19,全球直连,no-resolve
- - IP-CIDR,168.195.92.0/22,全球直连,no-resolve
- - IP-CIDR,185.176.76.0/22,全球直连,no-resolve
- - IP-CIDR,197.199.0.0/18,全球直连,no-resolve
- - IP-CIDR,197.210.163.0/24,全球直连,no-resolve
- - IP-CIDR,197.252.1.0/24,全球直连,no-resolve
- - IP-CIDR,197.252.2.0/23,全球直连,no-resolve
- - IP-CIDR,197.252.4.0/22,全球直连,no-resolve
- - IP-CIDR,197.252.8.0/21,全球直连,no-resolve
- - IP-CIDR,200.32.52.0/24,全球直连,no-resolve
- - IP-CIDR,200.32.54.0/24,全球直连,no-resolve
- - IP-CIDR,200.32.57.0/24,全球直连,no-resolve
- - IP-CIDR,203.135.0.0/22,全球直连,no-resolve
- - IP-CIDR,203.135.4.0/23,全球直连,no-resolve
- - IP-CIDR,203.135.8.0/23,全球直连,no-resolve
- - IP-CIDR,203.135.11.0/24,全球直连,no-resolve
- - IP-CIDR,203.135.13.0/24,全球直连,no-resolve
- - IP-CIDR,203.135.20.0/24,全球直连,no-resolve
- - IP-CIDR,203.135.22.0/23,全球直连,no-resolve
- - IP-CIDR,203.135.24.0/23,全球直连,no-resolve
- - IP-CIDR,203.135.26.0/24,全球直连,no-resolve
- - IP-CIDR,203.135.29.0/24,全球直连,no-resolve
- - IP-CIDR,203.135.33.0/24,全球直连,no-resolve
- - IP-CIDR,203.135.38.0/23,全球直连,no-resolve
- - IP-CIDR,203.135.40.0/24,全球直连,no-resolve
- - IP-CIDR,203.135.43.0/24,全球直连,no-resolve
- - IP-CIDR,203.135.48.0/24,全球直连,no-resolve
- - IP-CIDR,203.135.50.0/24,全球直连,no-resolve
+ - IP-CIDR,159.138.128.0/19,全球直连,no-resolve
  - IP-CIDR,42.186.0.0/16,全球直连,no-resolve
  - IP-CIDR,45.127.128.0/22,全球直连,no-resolve
  - IP-CIDR,45.195.24.0/24,全球直连,no-resolve
@@ -11849,7 +11837,6 @@ rules:
  - IP-CIDR,103.72.128.0/21,全球直连,no-resolve
  - IP-CIDR,103.74.24.0/21,全球直连,no-resolve
  - IP-CIDR,103.74.48.0/22,全球直连,no-resolve
- - IP-CIDR,103.126.92.0/22,全球直连,no-resolve
  - IP-CIDR,103.129.252.0/22,全球直连,no-resolve
  - IP-CIDR,103.131.252.0/22,全球直连,no-resolve
  - IP-CIDR,103.135.240.0/22,全球直连,no-resolve
@@ -11863,7 +11850,11 @@ rules:
  - IP-CIDR,123.58.160.0/19,全球直连,no-resolve
  - IP-CIDR,223.252.192.0/19,全球直连,no-resolve
  - IP-CIDR,101.198.128.0/18,全球直连,no-resolve
- - IP-CIDR,101.198.192.0/19,全球直连,no-resolve
+ - IP-CIDR,101.198.192.0/24,全球直连,no-resolve
+ - IP-CIDR,101.198.194.0/23,全球直连,no-resolve
+ - IP-CIDR,101.198.196.0/22,全球直连,no-resolve
+ - IP-CIDR,101.198.200.0/21,全球直连,no-resolve
+ - IP-CIDR,101.198.208.0/20,全球直连,no-resolve
  - IP-CIDR,101.199.196.0/22,全球直连,no-resolve
  - PROCESS-NAME,aria2c.exe,全球直连
  - PROCESS-NAME,fdm.exe,全球直连
@@ -12158,7 +12149,6 @@ rules:
  - DOMAIN-SUFFIX,mobclix.com,广告拦截
  - DOMAIN-SUFFIX,mobgi.com,广告拦截
  - DOMAIN-SUFFIX,mobisage.cn,广告拦截
- - DOMAIN-SUFFIX,mobvista.com,广告拦截
  - DOMAIN-SUFFIX,moogos.com,广告拦截
  - DOMAIN-SUFFIX,mopub.com,广告拦截
  - DOMAIN-SUFFIX,moquanad.com,广告拦截
@@ -12168,7 +12158,6 @@ rules:
  - DOMAIN-SUFFIX,mzy2014.com,广告拦截
  - DOMAIN-SUFFIX,networkbench.com,广告拦截
  - DOMAIN-SUFFIX,ninebox.cn,广告拦截
- - DOMAIN-SUFFIX,ntalker.com,广告拦截
  - DOMAIN-SUFFIX,nylalobghyhirgh.com,广告拦截
  - DOMAIN-SUFFIX,o2omobi.com,广告拦截
  - DOMAIN-SUFFIX,oadz.com,广告拦截
@@ -13502,6 +13491,45 @@ rules:
  - DOMAIN-SUFFIX,vaserviece.10jqka.com.cn,应用净化
  - DOMAIN-SUFFIX,edgedatg.com,节点选择
  - DOMAIN-SUFFIX,go.com,节点选择
+ - DOMAIN-KEYWORD,anthropic,节点选择
+ - DOMAIN-KEYWORD,claude,节点选择
+ - DOMAIN-KEYWORD,openai,节点选择
+ - DOMAIN,ai.google.dev,节点选择
+ - DOMAIN,api.githubcopilot.com,节点选择
+ - DOMAIN,api.groq.com,节点选择
+ - DOMAIN,api.together.xyz,节点选择
+ - DOMAIN,bard.google.com,节点选择
+ - DOMAIN,console.groq.com,节点选择
+ - DOMAIN,copilot-proxy.githubusercontent.com,节点选择
+ - DOMAIN,gemini.google.com,节点选择
+ - DOMAIN,generativelanguage.googleapis.com,节点选择
+ - DOMAIN,sydney.bing.com,节点选择
+ - DOMAIN-SUFFIX,ai.azure.com,节点选择
+ - DOMAIN-SUFFIX,anthropic.com,节点选择
+ - DOMAIN-SUFFIX,auth0.com,节点选择
+ - DOMAIN-SUFFIX,bard.google.com,节点选择
+ - DOMAIN-SUFFIX,chatgpt.com,节点选择
+ - DOMAIN-SUFFIX,claude.ai,节点选择
+ - DOMAIN-SUFFIX,client-api.arkoselabs.com,节点选择
+ - DOMAIN-SUFFIX,copilot.cloud.microsoft,节点选择
+ - DOMAIN-SUFFIX,copilot.microsoft.com,节点选择
+ - DOMAIN-SUFFIX,events.statsigapi.net,节点选择
+ - DOMAIN-SUFFIX,featuregates.org,节点选择
+ - DOMAIN-SUFFIX,gemini.google.com,节点选择
+ - DOMAIN-SUFFIX,grazie.ai,节点选择
+ - DOMAIN-SUFFIX,grazie.aws.intellij.net,节点选择
+ - DOMAIN-SUFFIX,identrust.com,节点选择
+ - DOMAIN-SUFFIX,intercom.io,节点选择
+ - DOMAIN-SUFFIX,intercomcdn.com,节点选择
+ - DOMAIN-SUFFIX,makersuite.google.com,节点选择
+ - DOMAIN-SUFFIX,meta.ai,节点选择
+ - DOMAIN-SUFFIX,mistral.ai,节点选择
+ - DOMAIN-SUFFIX,oaistatic.com,节点选择
+ - DOMAIN-SUFFIX,oaiusercontent.com,节点选择
+ - DOMAIN-SUFFIX,openai.com,节点选择
+ - DOMAIN-SUFFIX,openaiapi-site.azureedge.net,节点选择
+ - DOMAIN-SUFFIX,perplexity.ai,节点选择
+ - DOMAIN-SUFFIX,sora.com,节点选择
  - DOMAIN-KEYWORD,abematv.akamaized.net,节点选择
  - DOMAIN-SUFFIX,abema.io,节点选择
  - DOMAIN-SUFFIX,abema.tv,节点选择
